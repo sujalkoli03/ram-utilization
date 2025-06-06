@@ -1,0 +1,39 @@
+/* Keyframe animations for letter-by-letter reveal and wipe */
+@keyframes reveal {
+    0% {
+      opacity: 0;
+      transform: translateX(-10px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+  
+  @keyframes wipe {
+    0% {
+      opacity: 1;
+      transform: translateX(0);
+    }
+    100% {
+      opacity: 0;
+      transform: translateX(10px);
+    }
+  }
+  
+  /* Styling for each letter to animate sequentially */
+  .letter {
+    display: inline-block;
+    opacity: 0;
+    animation: reveal 0.1s forwards, wipe 3s 2.5s forwards;
+    animation-iteration-count: infinite;
+  }
+  
+  .sysmain .letter {
+    animation-delay: calc(var(--i) * 0.1s); /* Delay for each letter of SysMain */
+  }
+  
+  .superfetch .letter {
+    animation-delay: calc(2s + var(--i) * 0.1s); /* Delay for each letter of (Superfetch), starting after SysMain */
+  }
+  

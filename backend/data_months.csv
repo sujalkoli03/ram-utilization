@@ -1,0 +1,2043 @@
+Day,Date,Time,App,CPU(%),Memory(KB),Launch Frequency,Window Status,Session Duration (min)
+Friday,01-11-2024,20:40.55,Postman,1.67,145787,1,Inactive,13
+Friday,01-11-2024,23:45.50,Xcode,3.53,347496,4,Active,29
+Friday,01-11-2024,21:31.36,WhatsApp,4.05,558845,1,Active,42
+Friday,01-11-2024,16:04.54,Discord,3.28,348330,2,Inactive,44
+Friday,01-11-2024,14:21.26,Word,4.5,214600,2,Inactive,28
+Friday,01-11-2024,21:10.42,Excel,3.03,506457,1,Active,27
+Friday,01-11-2024,21:00.09,Steam,2.17,369596,2,Inactive,38
+Friday,01-11-2024,13:53.49,Blender,1.73,338653,1,Active,25
+Friday,01-11-2024,12:33.40,Unity,3.29,415415,2,Active,12
+Friday,01-11-2024,23:04.46,OBS Studio,1.27,448452,2,Active,35
+Friday,01-11-2024,20:25.20,Jira,0.71,354514,1,Active,15
+Friday,01-11-2024,20:32.36,Adobe Photoshop,2.44,146222,2,Active,36
+Friday,01-11-2024,12:10.04,Steam,0.45,196618,2,Active,15
+Friday,01-11-2024,09:36.01,OneNote,2.97,294962,2,Active,31
+Friday,01-11-2024,21:15.13,Adobe Photoshop,4.01,114460,2,Active,23
+Friday,01-11-2024,13:41.10,Teams,3.41,198168,1,Active,44
+Friday,01-11-2024,00:31.16,Edge,0.43,629284,4,Active,36
+Friday,01-11-2024,08:33.36,IntelliJ IDEA,3.89,361581,2,Inactive,39
+Friday,01-11-2024,07:40.41,Chrome,0.55,589551,1,Active,47
+Friday,01-11-2024,11:41.10,YouTube,3.31,357672,4,Active,45
+Friday,01-11-2024,15:50.35,Discord,4.16,464024,2,Active,25
+Friday,01-11-2024,16:41.05,Visual Studio,4.57,574923,2,Inactive,35
+Friday,01-11-2024,08:31.29,Discord,0.51,630665,1,Inactive,46
+Friday,01-11-2024,13:24.27,PowerPoint,4.09,475851,1,Inactive,13
+Friday,01-11-2024,20:50.45,Teams,0.95,123384,2,Inactive,14
+Friday,01-11-2024,07:37.45,WhatsApp,4.49,232152,2,Active,45
+Friday,01-11-2024,22:06.42,Zoom,0.41,215699,4,Inactive,28
+Friday,01-11-2024,14:19.41,IntelliJ IDEA,1.18,521350,1,Active,49
+Friday,01-11-2024,10:04.32,Discord,0.41,542947,3,Inactive,26
+Friday,01-11-2024,17:20.10,Android Studio,2.16,158062,2,Active,36
+Friday,01-11-2024,08:13.06,Slack,0.83,214872,1,Inactive,27
+Friday,01-11-2024,11:04.50,Telegram,1.57,437708,1,Active,39
+Friday,01-11-2024,17:42.42,YouTube,1.21,290392,2,Inactive,28
+Friday,01-11-2024,11:44.47,Discord,4.81,205218,1,Active,21
+Friday,01-11-2024,20:09.51,Edge,2.12,118523,2,Inactive,57
+Friday,01-11-2024,20:12.19,Telegram,4.36,552904,1,Inactive,53
+Friday,01-11-2024,12:23.35,Firefox,4.41,576193,1,Active,46
+Friday,01-11-2024,14:23.34,MATLAB,2.47,141927,2,Active,54
+Friday,01-11-2024,11:46.52,Netflix,4.4,117938,1,Inactive,13
+Friday,01-11-2024,17:45.42,Trello,4.89,584073,2,Active,42
+Friday,01-11-2024,16:23.40,Google Drive,3.29,672810,1,Inactive,57
+Friday,01-11-2024,00:40.31,Adobe Photoshop,1.64,695825,2,Active,39
+Friday,01-11-2024,11:38.32,Unity,2.05,347668,4,Inactive,48
+Friday,01-11-2024,22:47.54,Spotify,1.9,336438,2,Active,23
+Friday,01-11-2024,19:45.32,Trello,1.24,665470,1,Active,38
+Friday,01-11-2024,16:02.18,Figma,0.9,681198,2,Inactive,52
+Friday,01-11-2024,22:04.04,Excel,4.6,175727,2,Inactive,47
+Friday,01-11-2024,07:51.32,Jira,0.74,358272,1,Active,40
+Friday,01-11-2024,09:31.05,Chrome,4.54,581266,1,Inactive,27
+Friday,01-11-2024,20:28.33,Steam,1.35,345739,1,Active,54
+Friday,01-11-2024,19:30.05,Zoom,0.77,527075,1,Inactive,13
+Friday,01-11-2024,15:10.28,OBS Studio,1.99,164181,2,Inactive,54
+Friday,01-11-2024,15:36.12,OBS Studio,2.92,146389,4,Active,54
+Friday,01-11-2024,14:07.23,Figma,0.84,475805,1,Inactive,48
+Friday,01-11-2024,17:49.36,Opera,3.15,292707,1,Active,30
+Friday,01-11-2024,16:27.55,Notion,0.89,175759,3,Active,17
+Saturday,02-11-2024,10:13.59,VSCode,2.95,281625,3,Inactive,55
+Saturday,02-11-2024,11:03.39,OBS Studio,3.32,637109,4,Active,33
+Saturday,02-11-2024,12:56.11,IntelliJ IDEA,1.81,694599,1,Inactive,12
+Saturday,02-11-2024,15:00.04,PowerPoint,3.2,397378,4,Inactive,33
+Saturday,02-11-2024,09:53.14,Adobe Illustrator,4.54,442618,2,Active,57
+Saturday,02-11-2024,15:06.19,Telegram,4.39,124964,4,Inactive,12
+Saturday,02-11-2024,21:31.09,Unity,2.69,204702,1,Inactive,10
+Saturday,02-11-2024,07:49.34,Unity,1.25,669311,1,Inactive,19
+Saturday,02-11-2024,09:54.15,OneNote,4.16,452585,2,Active,10
+Saturday,02-11-2024,14:07.27,Visual Studio,2.32,179197,2,Active,35
+Saturday,02-11-2024,15:28.10,Adobe Photoshop,1.09,432934,2,Active,55
+Saturday,02-11-2024,20:28.03,Discord,1.04,628091,1,Active,35
+Saturday,02-11-2024,13:53.59,YouTube,3.7,539926,2,Inactive,34
+Saturday,02-11-2024,12:16.15,Blender,3.77,574945,2,Active,44
+Saturday,02-11-2024,22:50.15,Postman,1.3,197060,3,Inactive,46
+Saturday,02-11-2024,16:29.46,IntelliJ IDEA,4.96,257285,2,Inactive,36
+Saturday,02-11-2024,19:55.42,OBS Studio,2.3,687480,1,Active,21
+Saturday,02-11-2024,11:50.06,Adobe Photoshop,2.59,475239,2,Active,23
+Saturday,02-11-2024,18:06.31,Xcode,2.21,174434,3,Inactive,47
+Saturday,02-11-2024,17:40.26,Unity,3.67,449303,4,Inactive,53
+Saturday,02-11-2024,17:26.31,Zoom,3.19,156881,1,Active,59
+Saturday,02-11-2024,17:10.08,Blender,3.27,174729,2,Active,24
+Saturday,02-11-2024,09:10.14,Jira,2.64,118279,2,Active,36
+Saturday,02-11-2024,12:08.38,Google Drive,2.46,626628,1,Inactive,20
+Saturday,02-11-2024,14:15.46,IntelliJ IDEA,1.62,689921,1,Active,57
+Saturday,02-11-2024,12:59.20,Teams,0.68,654929,1,Active,42
+Saturday,02-11-2024,10:41.03,Outlook,1.57,442497,4,Inactive,51
+Saturday,02-11-2024,14:33.52,Netflix,3.45,161669,1,Active,44
+Saturday,02-11-2024,16:48.17,MATLAB,1.15,462608,4,Active,46
+Saturday,02-11-2024,14:17.59,Netflix,0.43,256891,1,Active,41
+Saturday,02-11-2024,22:00.39,PowerPoint,4.03,537523,3,Active,19
+Saturday,02-11-2024,19:03.38,Edge,1.85,227667,2,Inactive,41
+Saturday,02-11-2024,10:35.19,Eclipse,1.09,613495,2,Inactive,56
+Saturday,02-11-2024,16:08.45,Postman,0.52,660952,3,Inactive,20
+Saturday,02-11-2024,21:30.58,Teams,3.61,567221,2,Active,44
+Saturday,02-11-2024,13:24.40,Skype,2.15,174353,2,Inactive,12
+Saturday,02-11-2024,21:55.41,Postman,0.58,238793,2,Inactive,48
+Saturday,02-11-2024,21:06.15,Word,1.06,546601,2,Active,49
+Saturday,02-11-2024,14:52.04,Adobe Illustrator,1.2,664464,1,Active,18
+Saturday,02-11-2024,11:29.46,Chrome,1.96,340772,1,Active,56
+Saturday,02-11-2024,20:32.03,OneNote,3.41,684031,2,Inactive,15
+Saturday,02-11-2024,22:11.13,MATLAB,0.37,475126,1,Inactive,45
+Saturday,02-11-2024,20:20.23,Adobe Illustrator,0.4,493661,1,Active,31
+Saturday,02-11-2024,07:44.09,AutoCAD,4.27,375621,1,Active,33
+Saturday,02-11-2024,21:12.34,VSCode,1.12,534595,2,Inactive,47
+Saturday,02-11-2024,19:10.31,Notion,3.09,646500,1,Inactive,57
+Saturday,02-11-2024,09:40.20,Netflix,3.18,120346,2,Active,28
+Saturday,02-11-2024,15:28.47,WhatsApp,4.45,164729,2,Inactive,40
+Saturday,02-11-2024,12:41.23,PowerPoint,1.28,360428,1,Active,11
+Saturday,02-11-2024,19:24.02,Skype,4.79,417211,2,Inactive,35
+Saturday,02-11-2024,17:20.37,Figma,4.38,353005,2,Inactive,46
+Saturday,02-11-2024,17:07.50,IntelliJ IDEA,3.03,117441,2,Active,49
+Sunday,03-11-2024,09:09.21,Figma,1.54,431235,2,Inactive,55
+Sunday,03-11-2024,19:39.48,Teams,2.08,368421,2,Active,39
+Sunday,03-11-2024,08:02.38,Opera,3.92,491174,1,Inactive,58
+Sunday,03-11-2024,16:06.20,WhatsApp,3.21,480488,1,Active,22
+Sunday,03-11-2024,07:03.59,Adobe Illustrator,2.45,272714,1,Active,51
+Sunday,03-11-2024,23:24.42,MATLAB,4.34,428816,3,Inactive,27
+Sunday,03-11-2024,15:27.56,Xcode,4.93,191877,4,Inactive,25
+Sunday,03-11-2024,22:04.40,AutoCAD,1.3,224308,1,Active,10
+Sunday,03-11-2024,08:45.15,MATLAB,1.66,545864,1,Inactive,33
+Sunday,03-11-2024,09:47.04,Postman,2.67,212180,1,Active,59
+Sunday,03-11-2024,11:01.29,Figma,1.04,413269,4,Active,53
+Sunday,03-11-2024,20:44.05,WhatsApp,2.37,520205,2,Inactive,11
+Sunday,03-11-2024,16:32.51,Firefox,3.58,142318,4,Active,35
+Sunday,03-11-2024,21:24.16,Edge,1.47,152115,1,Active,44
+Sunday,03-11-2024,11:15.21,Opera,1.54,403733,4,Active,33
+Sunday,03-11-2024,17:40.11,OneNote,1.33,307431,2,Active,17
+Sunday,03-11-2024,12:11.07,OBS Studio,4.03,394088,1,Active,31
+Sunday,03-11-2024,22:20.26,Zoom,4.57,535509,4,Inactive,24
+Sunday,03-11-2024,17:51.16,GitHub Desktop,4.54,520616,4,Active,56
+Sunday,03-11-2024,22:27.29,Microsoft Store,2.65,566419,1,Inactive,44
+Sunday,03-11-2024,18:45.26,Google Drive,3.25,112760,4,Inactive,45
+Sunday,03-11-2024,15:14.26,Excel,2.86,419194,2,Active,44
+Sunday,03-11-2024,20:25.38,Excel,4.14,559137,1,Inactive,17
+Sunday,03-11-2024,20:16.59,Telegram,4.79,224241,2,Active,21
+Sunday,03-11-2024,19:46.21,Google Drive,0.34,303513,2,Inactive,46
+Sunday,03-11-2024,07:40.59,Spotify,2.97,662086,1,Active,51
+Sunday,03-11-2024,10:11.04,Microsoft Store,4.16,446420,1,Inactive,46
+Sunday,03-11-2024,07:22.03,Edge,1.5,658778,1,Inactive,43
+Sunday,03-11-2024,16:07.43,Adobe Illustrator,4.65,361648,2,Active,55
+Sunday,03-11-2024,21:50.27,Edge,2.94,545265,1,Inactive,43
+Sunday,03-11-2024,19:50.42,Discord,2.84,127139,2,Inactive,46
+Sunday,03-11-2024,12:30.46,AutoCAD,2.85,510556,1,Active,26
+Sunday,03-11-2024,20:58.04,Postman,4.16,281114,1,Active,34
+Sunday,03-11-2024,12:41.26,Skype,2.22,384085,1,Active,20
+Sunday,03-11-2024,22:22.42,Netflix,2.33,588142,3,Active,20
+Sunday,03-11-2024,19:39.47,Teams,3.58,155519,1,Inactive,41
+Sunday,03-11-2024,10:03.33,Adobe Illustrator,1.87,338291,4,Active,33
+Sunday,03-11-2024,11:33.41,VSCode,2.53,446388,4,Inactive,40
+Sunday,03-11-2024,12:05.17,Word,1.3,368238,1,Active,11
+Sunday,03-11-2024,14:19.49,Discord,2.31,599320,2,Active,32
+Sunday,03-11-2024,13:50.53,Eclipse,2.8,434780,2,Active,44
+Sunday,03-11-2024,14:10.23,Microsoft Store,2.98,210174,2,Inactive,15
+Sunday,03-11-2024,00:56.28,Jira,1.99,570176,3,Active,35
+Sunday,03-11-2024,07:19.34,Chrome,2.44,119041,2,Active,16
+Sunday,03-11-2024,13:16.27,Excel,3.5,690618,2,Inactive,26
+Sunday,03-11-2024,17:19.04,Discord,4.33,188951,4,Inactive,17
+Sunday,03-11-2024,11:13.04,Blender,2.18,120334,2,Active,31
+Sunday,03-11-2024,22:48.21,Notion,0.7,473053,4,Inactive,33
+Sunday,03-11-2024,07:31.02,Xcode,4.33,339923,1,Inactive,29
+Sunday,03-11-2024,15:34.36,MATLAB,1.12,511941,1,Inactive,27
+Sunday,03-11-2024,19:20.01,Trello,4.82,583081,2,Active,26
+Sunday,03-11-2024,18:03.21,Visual Studio,0.67,364427,4,Active,47
+Sunday,03-11-2024,23:34.41,Blender,3.33,360431,4,Inactive,13
+Sunday,03-11-2024,18:05.42,Steam,0.86,323153,2,Inactive,26
+Sunday,03-11-2024,17:33.35,Adobe Photoshop,4.83,334740,2,Inactive,37
+Sunday,03-11-2024,20:20.19,Android Studio,1.41,192641,2,Active,29
+Sunday,03-11-2024,10:19.34,PowerPoint,3.04,322237,2,Active,53
+Sunday,03-11-2024,00:17.32,Excel,3.38,632095,1,Inactive,27
+Sunday,03-11-2024,23:20.30,Eclipse,4.33,552926,4,Active,40
+Sunday,03-11-2024,17:13.42,Microsoft Store,3.58,331004,1,Inactive,27
+Sunday,03-11-2024,19:04.40,Visual Studio,0.79,518555,1,Active,12
+Sunday,03-11-2024,08:19.05,YouTube,3.45,524310,1,Active,38
+Sunday,03-11-2024,19:08.36,AutoCAD,2.61,512594,1,Inactive,52
+Sunday,03-11-2024,15:13.42,Outlook,1.02,295191,1,Active,18
+Sunday,03-11-2024,14:55.14,Edge,3.06,297432,1,Inactive,35
+Sunday,03-11-2024,13:57.43,Steam,1.86,405895,1,Active,45
+Sunday,03-11-2024,20:31.05,Adobe Illustrator,1.22,687205,1,Inactive,15
+Sunday,03-11-2024,00:14.45,Xcode,1.09,510668,1,Inactive,47
+Sunday,03-11-2024,23:33.00,Adobe Illustrator,2.13,464434,4,Active,60
+Monday,04-11-2024,19:51.31,Word,4.55,642329,2,Active,20
+Monday,04-11-2024,00:11.42,Microsoft Store,1.38,684011,2,Inactive,54
+Monday,04-11-2024,16:36.33,Steam,0.76,560977,1,Active,14
+Monday,04-11-2024,12:23.29,MATLAB,4.05,145603,1,Active,39
+Monday,04-11-2024,19:54.04,Chrome,3.23,599344,2,Inactive,19
+Monday,04-11-2024,11:24.18,YouTube,1.31,160620,3,Active,40
+Monday,04-11-2024,14:18.35,Unity,1.79,185654,1,Inactive,46
+Monday,04-11-2024,20:06.42,Slack,2.9,662610,1,Inactive,55
+Monday,04-11-2024,07:29.50,Firefox,1.48,188972,2,Active,53
+Monday,04-11-2024,20:22.47,MATLAB,1.71,559382,1,Inactive,33
+Monday,04-11-2024,12:21.54,Firefox,3.93,610309,2,Inactive,51
+Monday,04-11-2024,23:18.47,Adobe Illustrator,4.45,598989,2,Inactive,37
+Monday,04-11-2024,20:14.47,Word,1.26,577538,1,Inactive,22
+Monday,04-11-2024,12:22.33,OBS Studio,0.93,201925,2,Active,36
+Monday,04-11-2024,16:37.45,Adobe Photoshop,4.93,118237,2,Inactive,44
+Monday,04-11-2024,12:13.34,Telegram,2.03,643007,2,Inactive,39
+Monday,04-11-2024,07:50.58,Unity,2.21,399022,1,Active,50
+Monday,04-11-2024,13:09.21,MATLAB,3.88,679068,1,Active,34
+Monday,04-11-2024,20:23.40,Android Studio,2.97,364659,1,Active,22
+Monday,04-11-2024,20:39.54,Visual Studio,0.72,161286,2,Inactive,19
+Monday,04-11-2024,15:24.47,Opera,1.55,177543,2,Active,55
+Monday,04-11-2024,20:00.56,Adobe Illustrator,2.08,682050,2,Inactive,31
+Monday,04-11-2024,00:25.23,AutoCAD,0.62,490347,4,Inactive,16
+Monday,04-11-2024,14:50.12,GitHub Desktop,3.08,241920,2,Inactive,29
+Monday,04-11-2024,21:00.17,Notion,0.33,284416,2,Inactive,36
+Monday,04-11-2024,19:15.07,Word,0.67,412016,1,Inactive,42
+Monday,04-11-2024,14:36.56,Opera,4.52,634928,2,Active,49
+Monday,04-11-2024,11:34.12,Eclipse,4.71,513767,2,Inactive,57
+Monday,04-11-2024,09:00.22,Zoom,3.99,559164,1,Active,38
+Monday,04-11-2024,10:11.28,Google Drive,2.2,438485,4,Inactive,20
+Monday,04-11-2024,19:43.21,Android Studio,1.72,454852,1,Inactive,60
+Monday,04-11-2024,23:23.00,Teams,3.44,567490,3,Active,46
+Monday,04-11-2024,14:21.25,Adobe Photoshop,3.38,383460,2,Active,58
+Monday,04-11-2024,11:20.07,Zoom,1.05,500815,2,Active,33
+Monday,04-11-2024,08:11.42,YouTube,3.99,419418,2,Active,49
+Monday,04-11-2024,16:31.09,Word,1.94,308908,1,Active,46
+Monday,04-11-2024,23:47.27,Adobe Illustrator,2.3,672194,3,Active,25
+Monday,04-11-2024,14:17.35,Jira,3.07,462333,2,Inactive,41
+Monday,04-11-2024,12:07.58,OneNote,3.7,530122,1,Active,24
+Monday,04-11-2024,13:59.20,Xcode,4.96,525777,1,Inactive,57
+Monday,04-11-2024,14:55.54,Steam,4.45,262159,2,Active,18
+Monday,04-11-2024,17:18.55,PowerPoint,1.91,645897,4,Inactive,29
+Monday,04-11-2024,22:56.22,Adobe Illustrator,3.57,594550,1,Active,28
+Monday,04-11-2024,23:08.02,GitHub Desktop,1.85,227571,4,Active,59
+Monday,04-11-2024,08:06.22,Trello,2.51,577423,2,Active,49
+Monday,04-11-2024,17:19.50,OBS Studio,2.36,386158,2,Inactive,55
+Monday,04-11-2024,09:02.12,Jira,0.47,269739,1,Inactive,12
+Monday,04-11-2024,11:20.39,Firefox,1.22,181465,4,Inactive,23
+Monday,04-11-2024,22:53.08,Unity,2.76,327716,3,Active,49
+Monday,04-11-2024,08:47.14,Visual Studio,1.67,479703,1,Active,13
+Monday,04-11-2024,15:14.43,Eclipse,0.64,514105,1,Inactive,36
+Monday,04-11-2024,15:59.11,Adobe Photoshop,1.63,237847,4,Inactive,10
+Monday,04-11-2024,12:14.18,Microsoft Store,2.74,422084,2,Active,15
+Monday,04-11-2024,23:15.48,Adobe Illustrator,3.41,608005,3,Active,55
+Monday,04-11-2024,00:23.02,Xcode,2.81,456982,1,Inactive,26
+Monday,04-11-2024,20:42.27,Trello,2.42,508157,2,Active,33
+Monday,04-11-2024,18:48.43,Adobe Illustrator,2.97,178891,2,Active,13
+Monday,04-11-2024,13:31.32,Firefox,2.48,339752,2,Inactive,40
+Monday,04-11-2024,13:41.27,WhatsApp,2.6,293858,1,Inactive,19
+Monday,04-11-2024,19:30.12,Discord,0.5,513603,2,Inactive,37
+Monday,04-11-2024,13:09.07,Microsoft Store,2.69,456477,2,Active,42
+Monday,04-11-2024,07:04.49,Blender,2.91,358152,1,Active,25
+Monday,04-11-2024,22:36.20,Slack,2.03,128909,1,Active,28
+Monday,04-11-2024,23:25.20,YouTube,4.71,541028,4,Inactive,31
+Monday,04-11-2024,21:42.12,Opera,2.15,397998,2,Active,37
+Monday,04-11-2024,22:32.29,Steam,2.78,530519,1,Active,12
+Tuesday,05-11-2024,20:30.45,Postman,4.66,570172,2,Inactive,47
+Tuesday,05-11-2024,18:41.46,GitHub Desktop,3.42,432804,4,Active,34
+Tuesday,05-11-2024,15:07.27,AutoCAD,2.68,137867,2,Active,57
+Tuesday,05-11-2024,20:23.52,Microsoft Store,0.74,468280,1,Active,41
+Tuesday,05-11-2024,10:37.54,Discord,1.98,629495,2,Active,40
+Tuesday,05-11-2024,13:13.24,Outlook,4.0,175716,2,Active,33
+Tuesday,05-11-2024,00:09.35,YouTube,3.01,465736,4,Inactive,16
+Tuesday,05-11-2024,23:34.08,Opera,0.55,519139,3,Inactive,47
+Tuesday,05-11-2024,08:02.55,Adobe Illustrator,0.68,186501,1,Active,13
+Tuesday,05-11-2024,13:05.51,Trello,3.04,333978,1,Inactive,13
+Tuesday,05-11-2024,15:40.59,Telegram,4.64,159509,4,Inactive,26
+Tuesday,05-11-2024,14:43.16,Visual Studio,4.47,185763,2,Active,50
+Tuesday,05-11-2024,07:53.45,Excel,2.57,444770,2,Active,39
+Tuesday,05-11-2024,12:39.28,Notion,0.33,204848,1,Inactive,30
+Tuesday,05-11-2024,12:28.33,Eclipse,0.33,454683,1,Inactive,30
+Tuesday,05-11-2024,00:34.24,Adobe Illustrator,2.79,444541,2,Active,52
+Tuesday,05-11-2024,11:33.01,OBS Studio,3.37,554224,3,Inactive,16
+Tuesday,05-11-2024,10:22.06,OneNote,0.66,266237,1,Active,13
+Tuesday,05-11-2024,17:21.06,Postman,1.36,680387,4,Active,14
+Tuesday,05-11-2024,10:41.40,Opera,1.5,310704,2,Inactive,24
+Tuesday,05-11-2024,00:53.40,Chrome,2.67,190614,4,Active,41
+Tuesday,05-11-2024,10:33.16,Postman,1.66,500236,2,Active,28
+Tuesday,05-11-2024,22:10.16,Android Studio,2.81,285156,1,Active,24
+Tuesday,05-11-2024,19:24.11,Trello,0.45,352706,1,Active,13
+Tuesday,05-11-2024,21:24.40,PowerPoint,3.15,493259,1,Inactive,47
+Tuesday,05-11-2024,00:45.35,IntelliJ IDEA,1.24,513081,2,Inactive,13
+Tuesday,05-11-2024,00:37.39,VSCode,3.94,488216,1,Active,40
+Tuesday,05-11-2024,12:45.31,Visual Studio,2.62,184309,1,Inactive,17
+Tuesday,05-11-2024,11:32.44,OneNote,2.19,342137,1,Active,27
+Tuesday,05-11-2024,00:18.44,Steam,1.0,551090,1,Active,46
+Tuesday,05-11-2024,23:31.29,Postman,2.92,205382,3,Inactive,10
+Tuesday,05-11-2024,17:35.48,VSCode,2.68,349213,4,Inactive,44
+Tuesday,05-11-2024,09:30.34,OBS Studio,3.14,220315,1,Inactive,43
+Tuesday,05-11-2024,11:12.43,Zoom,4.26,137780,1,Inactive,53
+Tuesday,05-11-2024,18:51.45,GitHub Desktop,2.46,449602,4,Active,40
+Tuesday,05-11-2024,08:28.36,Unity,0.78,295042,2,Active,10
+Tuesday,05-11-2024,13:08.21,Netflix,4.84,255714,2,Inactive,21
+Tuesday,05-11-2024,20:11.41,Teams,3.86,272937,2,Inactive,47
+Tuesday,05-11-2024,11:01.05,PowerPoint,4.38,617462,1,Active,36
+Tuesday,05-11-2024,14:08.46,Telegram,2.83,107790,1,Active,20
+Tuesday,05-11-2024,11:35.26,Postman,4.88,442845,3,Inactive,17
+Tuesday,05-11-2024,00:20.19,Zoom,1.54,660351,1,Inactive,54
+Tuesday,05-11-2024,22:36.59,GitHub Desktop,4.1,212783,4,Active,19
+Tuesday,05-11-2024,20:35.19,Spotify,2.23,565969,1,Inactive,22
+Tuesday,05-11-2024,11:30.29,IntelliJ IDEA,1.29,666067,4,Active,25
+Tuesday,05-11-2024,14:03.36,Outlook,4.17,440137,2,Active,21
+Tuesday,05-11-2024,07:35.13,MATLAB,0.81,577576,2,Active,29
+Tuesday,05-11-2024,15:38.11,Word,1.48,208371,3,Inactive,23
+Tuesday,05-11-2024,14:44.54,Zoom,3.63,415694,1,Active,39
+Tuesday,05-11-2024,16:23.48,Android Studio,4.51,450182,4,Inactive,46
+Tuesday,05-11-2024,21:29.29,Blender,2.29,304314,2,Inactive,60
+Tuesday,05-11-2024,08:57.13,Microsoft Store,4.76,544676,2,Inactive,57
+Tuesday,05-11-2024,08:16.33,WhatsApp,3.09,466762,2,Inactive,22
+Tuesday,05-11-2024,13:21.00,Google Drive,4.93,274347,1,Inactive,38
+Tuesday,05-11-2024,11:15.57,Zoom,4.5,345898,3,Inactive,14
+Tuesday,05-11-2024,23:05.07,Unity,0.73,196744,1,Active,23
+Tuesday,05-11-2024,17:55.25,Google Drive,1.78,140730,1,Inactive,15
+Tuesday,05-11-2024,23:54.31,PowerPoint,3.14,271769,4,Active,48
+Tuesday,05-11-2024,07:52.21,Netflix,1.2,290365,2,Active,13
+Tuesday,05-11-2024,23:50.31,AutoCAD,4.09,541250,4,Inactive,60
+Tuesday,05-11-2024,07:07.24,Eclipse,2.73,346644,1,Active,31
+Tuesday,05-11-2024,20:03.03,Spotify,4.4,343929,2,Inactive,52
+Tuesday,05-11-2024,00:56.50,Firefox,4.66,583363,3,Inactive,18
+Tuesday,05-11-2024,10:24.04,Postman,1.59,389341,3,Inactive,34
+Tuesday,05-11-2024,22:00.22,Blender,3.31,455800,1,Inactive,28
+Tuesday,05-11-2024,17:08.28,Adobe Illustrator,2.42,232334,3,Inactive,47
+Tuesday,05-11-2024,14:32.32,MATLAB,3.13,449604,2,Active,18
+Tuesday,05-11-2024,17:58.12,Blender,3.34,462656,4,Inactive,42
+Tuesday,05-11-2024,17:42.29,Adobe Illustrator,4.86,406343,4,Active,41
+Wednesday,06-11-2024,08:14.28,Excel,4.83,329074,1,Active,59
+Wednesday,06-11-2024,15:02.41,Firefox,1.71,168889,4,Active,59
+Wednesday,06-11-2024,07:31.05,GitHub Desktop,1.6,504226,1,Active,19
+Wednesday,06-11-2024,17:42.56,Netflix,4.51,582899,3,Inactive,46
+Wednesday,06-11-2024,23:18.07,Adobe Photoshop,4.41,232529,4,Active,32
+Wednesday,06-11-2024,13:42.04,Netflix,2.54,449786,2,Inactive,24
+Wednesday,06-11-2024,21:24.23,Spotify,1.95,293805,1,Active,56
+Wednesday,06-11-2024,23:46.55,PowerPoint,3.76,639249,2,Active,30
+Wednesday,06-11-2024,09:41.04,Jira,3.8,254692,2,Active,12
+Wednesday,06-11-2024,21:52.19,Google Drive,2.09,221954,2,Active,21
+Wednesday,06-11-2024,12:48.24,Slack,1.12,202756,2,Active,24
+Wednesday,06-11-2024,17:35.44,Android Studio,2.6,179197,4,Active,56
+Wednesday,06-11-2024,12:39.28,Google Drive,1.19,401225,1,Active,23
+Wednesday,06-11-2024,15:29.58,GitHub Desktop,0.71,207525,4,Active,57
+Wednesday,06-11-2024,13:16.12,Postman,0.32,545872,1,Inactive,25
+Wednesday,06-11-2024,23:39.02,Teams,2.46,295566,2,Inactive,10
+Wednesday,06-11-2024,23:18.53,Word,4.92,603151,2,Inactive,31
+Wednesday,06-11-2024,00:42.39,OBS Studio,4.36,354409,1,Inactive,45
+Wednesday,06-11-2024,08:24.17,Notion,4.94,144331,1,Active,57
+Wednesday,06-11-2024,14:02.45,Telegram,2.02,150547,1,Inactive,41
+Wednesday,06-11-2024,15:51.53,Microsoft Store,4.92,692310,2,Inactive,41
+Wednesday,06-11-2024,13:51.36,Blender,3.07,687531,1,Active,34
+Wednesday,06-11-2024,13:53.40,Adobe Photoshop,0.64,156493,2,Inactive,10
+Wednesday,06-11-2024,09:24.30,Trello,1.09,515760,2,Active,21
+Wednesday,06-11-2024,18:47.41,Teams,3.02,473611,2,Active,35
+Wednesday,06-11-2024,10:38.03,Adobe Photoshop,3.09,573637,3,Inactive,57
+Wednesday,06-11-2024,12:31.14,Zoom,1.51,341187,1,Inactive,47
+Wednesday,06-11-2024,07:23.29,MATLAB,0.99,378581,1,Inactive,42
+Wednesday,06-11-2024,00:08.35,Microsoft Store,3.84,465088,3,Active,57
+Wednesday,06-11-2024,08:26.06,Blender,3.17,517542,1,Inactive,27
+Wednesday,06-11-2024,17:10.35,OBS Studio,4.88,386709,3,Inactive,24
+Wednesday,06-11-2024,08:08.42,Steam,2.67,540725,1,Active,50
+Wednesday,06-11-2024,12:45.18,Figma,0.33,366608,2,Inactive,54
+Wednesday,06-11-2024,15:42.50,Edge,1.29,259560,4,Inactive,38
+Wednesday,06-11-2024,09:57.11,Excel,2.35,452318,1,Inactive,29
+Wednesday,06-11-2024,19:09.06,Eclipse,2.48,125166,2,Active,20
+Wednesday,06-11-2024,09:27.32,Excel,2.74,564610,2,Active,36
+Wednesday,06-11-2024,19:24.09,Eclipse,3.47,446415,1,Inactive,37
+Wednesday,06-11-2024,19:11.23,Teams,1.4,491665,1,Inactive,18
+Wednesday,06-11-2024,11:06.28,OneNote,0.49,330536,2,Inactive,59
+Wednesday,06-11-2024,10:40.04,GitHub Desktop,3.21,155117,4,Inactive,39
+Wednesday,06-11-2024,16:14.52,Discord,1.94,176360,3,Active,59
+Wednesday,06-11-2024,00:44.35,Blender,2.25,570571,4,Inactive,35
+Wednesday,06-11-2024,14:21.52,Excel,2.88,119243,1,Inactive,50
+Wednesday,06-11-2024,19:09.21,Xcode,2.7,554597,2,Active,48
+Wednesday,06-11-2024,13:23.51,Unity,3.47,625147,1,Active,36
+Wednesday,06-11-2024,00:41.26,AutoCAD,4.55,269480,3,Inactive,50
+Wednesday,06-11-2024,18:38.29,Jira,1.57,688403,4,Inactive,45
+Wednesday,06-11-2024,15:55.23,PowerPoint,0.33,660448,4,Inactive,39
+Wednesday,06-11-2024,21:38.06,YouTube,1.64,537221,1,Inactive,41
+Wednesday,06-11-2024,11:53.06,IntelliJ IDEA,1.93,655230,1,Active,47
+Wednesday,06-11-2024,19:58.49,MATLAB,2.39,409372,2,Inactive,45
+Wednesday,06-11-2024,09:33.03,Jira,3.66,283681,2,Inactive,39
+Wednesday,06-11-2024,09:33.45,Chrome,1.05,394592,2,Active,10
+Wednesday,06-11-2024,00:56.59,Trello,3.01,415869,2,Inactive,29
+Wednesday,06-11-2024,10:56.12,Google Drive,2.22,283045,4,Active,13
+Wednesday,06-11-2024,16:01.31,Zoom,4.4,549219,4,Inactive,57
+Wednesday,06-11-2024,08:55.40,Slack,0.69,645750,1,Inactive,55
+Wednesday,06-11-2024,16:49.44,YouTube,2.42,458350,3,Inactive,48
+Wednesday,06-11-2024,18:09.10,Jira,3.75,144632,3,Active,26
+Wednesday,06-11-2024,07:17.14,Slack,3.03,646165,2,Active,46
+Wednesday,06-11-2024,19:47.07,Outlook,4.32,446370,2,Inactive,10
+Wednesday,06-11-2024,23:32.37,Google Drive,2.62,217656,3,Inactive,39
+Wednesday,06-11-2024,07:05.07,Excel,4.8,596167,2,Inactive,39
+Wednesday,06-11-2024,13:31.45,Adobe Illustrator,1.33,652916,1,Inactive,13
+Thursday,07-11-2024,23:10.55,MATLAB,4.73,656507,3,Inactive,38
+Thursday,07-11-2024,10:49.34,Google Drive,2.44,593506,3,Inactive,14
+Thursday,07-11-2024,22:15.02,Notion,1.74,638046,4,Inactive,31
+Thursday,07-11-2024,10:24.57,PowerPoint,1.43,172502,2,Active,42
+Thursday,07-11-2024,15:00.51,Edge,4.38,372161,4,Active,13
+Thursday,07-11-2024,16:06.53,VSCode,4.86,300524,4,Inactive,28
+Thursday,07-11-2024,09:19.44,Xcode,4.32,559144,1,Active,16
+Thursday,07-11-2024,17:54.58,IntelliJ IDEA,1.87,365541,2,Active,21
+Thursday,07-11-2024,00:19.24,WhatsApp,1.77,248438,3,Inactive,28
+Thursday,07-11-2024,19:57.13,MATLAB,2.49,318879,2,Inactive,15
+Thursday,07-11-2024,22:48.56,Unity,1.22,205377,3,Inactive,45
+Thursday,07-11-2024,07:09.50,PowerPoint,1.67,606441,1,Inactive,38
+Thursday,07-11-2024,00:47.08,Zoom,3.85,207161,1,Inactive,40
+Thursday,07-11-2024,11:50.26,Visual Studio,4.3,167095,1,Inactive,25
+Thursday,07-11-2024,21:19.51,Edge,2.95,588831,2,Active,55
+Thursday,07-11-2024,23:07.01,Netflix,2.95,500792,1,Active,20
+Thursday,07-11-2024,13:59.51,Adobe Illustrator,4.92,626053,1,Inactive,47
+Thursday,07-11-2024,15:03.34,Microsoft Store,2.42,233645,4,Active,56
+Thursday,07-11-2024,07:39.21,Spotify,4.28,431892,2,Inactive,59
+Thursday,07-11-2024,00:17.23,VSCode,3.65,634790,1,Inactive,13
+Thursday,07-11-2024,07:04.03,Google Drive,1.57,618228,2,Active,46
+Thursday,07-11-2024,07:26.20,Jira,3.77,230516,1,Active,31
+Thursday,07-11-2024,08:43.40,Firefox,3.6,150517,2,Inactive,24
+Thursday,07-11-2024,00:06.04,MATLAB,1.64,380669,4,Active,10
+Thursday,07-11-2024,22:45.09,GitHub Desktop,2.84,344612,1,Active,56
+Thursday,07-11-2024,20:41.47,OBS Studio,1.78,605990,2,Active,58
+Thursday,07-11-2024,20:12.18,Telegram,1.75,545514,1,Inactive,54
+Thursday,07-11-2024,10:02.36,Trello,1.2,424980,2,Active,39
+Thursday,07-11-2024,23:42.53,Telegram,4.23,648397,4,Active,14
+Thursday,07-11-2024,09:46.01,OneNote,3.02,278422,2,Active,34
+Thursday,07-11-2024,19:15.55,YouTube,1.28,116236,2,Inactive,19
+Thursday,07-11-2024,14:13.51,VSCode,1.91,638749,2,Active,22
+Thursday,07-11-2024,19:01.06,Outlook,1.2,437529,2,Inactive,29
+Thursday,07-11-2024,21:54.09,MATLAB,0.75,131454,2,Inactive,56
+Thursday,07-11-2024,22:28.10,Adobe Illustrator,2.23,178304,3,Active,26
+Thursday,07-11-2024,00:48.13,Unity,3.79,555614,4,Inactive,38
+Thursday,07-11-2024,11:45.11,Google Drive,3.31,630546,1,Inactive,48
+Thursday,07-11-2024,09:21.50,Blender,3.5,230085,2,Inactive,17
+Thursday,07-11-2024,16:29.16,VSCode,1.62,262820,3,Active,30
+Thursday,07-11-2024,22:40.29,Google Drive,0.91,535905,1,Inactive,32
+Thursday,07-11-2024,19:19.18,Spotify,3.49,112874,1,Active,58
+Thursday,07-11-2024,09:19.40,Blender,4.32,563795,1,Inactive,30
+Thursday,07-11-2024,13:13.57,Trello,0.62,331152,1,Inactive,31
+Thursday,07-11-2024,18:17.04,Notion,1.06,412823,1,Inactive,31
+Thursday,07-11-2024,12:04.29,Skype,3.4,373070,2,Active,45
+Thursday,07-11-2024,07:19.12,Trello,4.34,245324,2,Active,52
+Thursday,07-11-2024,07:49.45,Steam,2.87,150468,2,Inactive,60
+Thursday,07-11-2024,18:37.39,Android Studio,2.84,557629,3,Active,23
+Thursday,07-11-2024,07:27.44,Adobe Illustrator,4.06,378215,1,Active,44
+Thursday,07-11-2024,13:21.16,Adobe Illustrator,2.8,682336,2,Inactive,10
+Thursday,07-11-2024,07:34.14,Notion,4.96,272614,1,Inactive,31
+Thursday,07-11-2024,21:33.10,IntelliJ IDEA,4.75,101123,2,Active,50
+Thursday,07-11-2024,23:11.38,Postman,2.99,500029,1,Active,25
+Thursday,07-11-2024,22:28.25,Adobe Illustrator,4.6,650464,3,Inactive,53
+Thursday,07-11-2024,15:04.13,Android Studio,3.52,594156,2,Inactive,41
+Thursday,07-11-2024,09:32.46,Steam,2.73,611903,1,Active,43
+Thursday,07-11-2024,16:14.31,Spotify,4.39,583896,2,Inactive,24
+Thursday,07-11-2024,13:26.59,VSCode,3.0,491238,2,Inactive,27
+Thursday,07-11-2024,09:16.43,Spotify,3.78,602809,2,Inactive,46
+Thursday,07-11-2024,17:34.26,Blender,0.98,173593,3,Inactive,14
+Thursday,07-11-2024,07:25.37,Teams,0.84,198168,1,Inactive,51
+Thursday,07-11-2024,08:22.31,Eclipse,4.91,420317,2,Active,38
+Thursday,07-11-2024,08:42.40,GitHub Desktop,0.52,136392,1,Inactive,32
+Thursday,07-11-2024,17:54.11,IntelliJ IDEA,1.54,507500,2,Active,45
+Friday,08-11-2024,20:51.58,Adobe Photoshop,2.13,498965,2,Active,44
+Friday,08-11-2024,00:05.50,Discord,1.95,423873,1,Active,31
+Friday,08-11-2024,15:56.44,Unity,2.12,141468,3,Active,39
+Friday,08-11-2024,10:51.13,PowerPoint,1.75,313920,4,Active,43
+Friday,08-11-2024,22:30.11,Android Studio,2.48,152239,1,Inactive,10
+Friday,08-11-2024,00:43.54,YouTube,1.48,419986,3,Active,24
+Friday,08-11-2024,00:55.18,YouTube,3.64,389852,1,Active,43
+Friday,08-11-2024,20:20.59,Slack,2.4,499785,2,Inactive,45
+Friday,08-11-2024,19:08.45,Word,3.7,450924,2,Inactive,13
+Friday,08-11-2024,16:06.40,Adobe Illustrator,1.56,597831,1,Inactive,15
+Friday,08-11-2024,18:19.40,Postman,1.82,133245,2,Active,55
+Friday,08-11-2024,16:21.10,Figma,2.57,506575,2,Active,36
+Friday,08-11-2024,22:02.19,Unity,0.57,306280,3,Inactive,19
+Friday,08-11-2024,20:42.46,Outlook,1.91,220949,1,Active,59
+Friday,08-11-2024,17:28.24,Blender,0.38,559379,4,Inactive,53
+Friday,08-11-2024,00:14.04,MATLAB,2.99,585163,2,Inactive,42
+Friday,08-11-2024,00:25.26,VSCode,0.64,557981,1,Active,29
+Friday,08-11-2024,10:08.59,Netflix,4.01,376435,3,Active,39
+Friday,08-11-2024,09:52.21,Microsoft Store,1.97,698818,1,Active,14
+Friday,08-11-2024,11:36.35,Chrome,1.9,168993,3,Inactive,54
+Friday,08-11-2024,00:26.46,Xcode,3.43,111968,2,Inactive,39
+Friday,08-11-2024,20:37.30,OneNote,0.99,522181,1,Active,49
+Friday,08-11-2024,23:41.42,Figma,4.18,315759,1,Active,47
+Friday,08-11-2024,11:41.48,Steam,4.89,649174,3,Active,55
+Friday,08-11-2024,22:58.52,WhatsApp,2.42,200439,2,Active,57
+Friday,08-11-2024,07:59.50,Teams,2.63,350701,2,Inactive,41
+Friday,08-11-2024,22:59.07,AutoCAD,1.04,378907,3,Inactive,20
+Friday,08-11-2024,13:52.27,Spotify,3.33,354544,1,Active,40
+Friday,08-11-2024,14:39.29,Opera,4.61,564285,1,Inactive,53
+Friday,08-11-2024,15:01.01,Jira,4.0,251682,4,Inactive,51
+Friday,08-11-2024,19:19.54,Adobe Illustrator,0.95,481601,1,Active,21
+Friday,08-11-2024,18:15.37,Chrome,3.32,387891,4,Inactive,59
+Friday,08-11-2024,20:04.41,Slack,1.0,249381,2,Inactive,41
+Friday,08-11-2024,08:22.12,GitHub Desktop,2.99,470655,2,Inactive,22
+Friday,08-11-2024,18:45.16,Xcode,2.48,496214,4,Active,15
+Friday,08-11-2024,18:47.26,Telegram,2.52,486197,4,Active,20
+Friday,08-11-2024,23:44.07,Unity,4.7,462263,2,Inactive,44
+Friday,08-11-2024,22:01.32,VSCode,4.41,194703,4,Active,50
+Friday,08-11-2024,10:07.57,Unity,1.6,280849,4,Inactive,53
+Friday,08-11-2024,09:03.22,Excel,3.95,290873,2,Inactive,49
+Friday,08-11-2024,13:20.48,Outlook,0.69,456595,2,Active,16
+Friday,08-11-2024,15:51.00,Xcode,0.82,449900,3,Inactive,60
+Friday,08-11-2024,00:34.11,PowerPoint,2.89,196680,1,Inactive,56
+Friday,08-11-2024,07:55.16,Microsoft Store,2.87,316964,2,Active,57
+Friday,08-11-2024,17:04.58,Teams,3.56,219402,4,Inactive,22
+Friday,08-11-2024,00:57.38,Teams,2.34,478931,2,Active,40
+Friday,08-11-2024,11:44.18,Spotify,1.36,294328,4,Inactive,19
+Friday,08-11-2024,19:13.27,MATLAB,0.76,656960,2,Inactive,59
+Friday,08-11-2024,20:09.08,Steam,0.74,309242,2,Inactive,33
+Friday,08-11-2024,22:27.32,Blender,3.6,670753,2,Inactive,24
+Friday,08-11-2024,18:05.34,Visual Studio,1.5,100403,4,Inactive,31
+Friday,08-11-2024,12:08.39,Firefox,1.56,111858,1,Active,32
+Friday,08-11-2024,15:14.32,Excel,2.41,241118,1,Active,46
+Friday,08-11-2024,16:15.01,GitHub Desktop,0.85,431904,1,Active,14
+Friday,08-11-2024,23:28.35,Discord,3.91,502541,3,Inactive,23
+Friday,08-11-2024,14:38.06,Netflix,4.09,615796,2,Active,12
+Friday,08-11-2024,20:22.32,GitHub Desktop,3.28,679480,1,Inactive,30
+Friday,08-11-2024,21:50.41,Adobe Photoshop,0.57,668647,2,Active,41
+Friday,08-11-2024,15:58.37,Excel,3.06,483260,2,Inactive,49
+Friday,08-11-2024,18:28.27,Adobe Illustrator,2.51,556725,3,Inactive,49
+Friday,08-11-2024,11:23.20,Xcode,2.59,472205,2,Active,48
+Friday,08-11-2024,17:40.34,IntelliJ IDEA,3.63,122777,4,Inactive,55
+Friday,08-11-2024,21:32.01,Blender,2.51,318925,2,Inactive,52
+Friday,08-11-2024,22:08.22,MATLAB,1.89,114024,1,Active,60
+Friday,08-11-2024,17:12.07,OBS Studio,1.34,245765,4,Inactive,19
+Friday,08-11-2024,16:25.28,PowerPoint,4.6,514906,3,Inactive,50
+Friday,08-11-2024,15:15.07,Telegram,3.6,274769,4,Active,30
+Friday,08-11-2024,22:14.28,Blender,3.33,542576,1,Inactive,29
+Friday,08-11-2024,22:53.34,Opera,2.9,442562,1,Inactive,49
+Friday,08-11-2024,20:08.27,Visual Studio,1.43,371685,1,Inactive,30
+Friday,08-11-2024,19:44.51,Xcode,2.3,576932,2,Inactive,52
+Friday,08-11-2024,11:52.01,IntelliJ IDEA,4.33,108065,4,Inactive,35
+Friday,08-11-2024,09:34.41,Excel,4.26,607500,2,Active,14
+Friday,08-11-2024,07:58.48,GitHub Desktop,1.36,122758,2,Active,40
+Friday,08-11-2024,12:32.23,Blender,3.04,136292,1,Inactive,30
+Friday,08-11-2024,15:26.35,Teams,2.72,112524,4,Active,20
+Friday,08-11-2024,20:53.34,AutoCAD,2.89,348174,1,Active,44
+Friday,08-11-2024,15:12.58,Trello,3.17,148107,4,Inactive,14
+Friday,08-11-2024,19:45.59,Notion,1.96,583802,2,Active,10
+Friday,08-11-2024,22:50.22,Figma,3.61,569588,4,Active,30
+Friday,08-11-2024,18:17.52,Telegram,1.56,355179,2,Active,30
+Friday,08-11-2024,23:04.12,Adobe Illustrator,2.53,299682,2,Active,20
+Friday,08-11-2024,09:48.20,Opera,0.59,307634,2,Inactive,46
+Friday,08-11-2024,19:27.35,Spotify,3.08,191285,1,Active,33
+Friday,08-11-2024,13:19.56,Word,1.36,303952,1,Active,34
+Friday,08-11-2024,15:37.20,Opera,4.07,384572,2,Active,13
+Friday,08-11-2024,15:32.35,Adobe Photoshop,1.34,619569,3,Active,48
+Friday,08-11-2024,23:21.55,Trello,0.86,304456,4,Active,58
+Friday,08-11-2024,23:05.28,Android Studio,1.54,361696,2,Inactive,23
+Friday,08-11-2024,11:06.25,YouTube,2.95,150731,2,Active,49
+Friday,08-11-2024,16:51.38,Steam,4.87,562531,3,Active,28
+Friday,08-11-2024,16:00.01,Google Drive,4.1,329698,2,Active,17
+Saturday,09-11-2024,18:47.22,Adobe Photoshop,0.6,498832,1,Inactive,44
+Saturday,09-11-2024,15:09.47,Opera,0.84,667304,4,Inactive,35
+Saturday,09-11-2024,11:39.57,Figma,4.69,691344,2,Inactive,60
+Saturday,09-11-2024,19:06.19,Netflix,3.07,518442,2,Inactive,50
+Saturday,09-11-2024,23:39.33,Visual Studio,4.8,245792,4,Active,18
+Saturday,09-11-2024,23:18.46,Slack,2.64,409990,2,Inactive,34
+Saturday,09-11-2024,09:50.47,Microsoft Store,0.55,680052,1,Inactive,28
+Saturday,09-11-2024,22:23.20,VSCode,3.48,678965,2,Inactive,48
+Saturday,09-11-2024,20:00.22,Word,0.95,589698,2,Inactive,26
+Saturday,09-11-2024,09:28.06,Xcode,2.94,268471,2,Inactive,32
+Saturday,09-11-2024,00:57.33,Netflix,2.92,634631,1,Inactive,32
+Saturday,09-11-2024,12:50.18,Edge,0.43,667227,1,Inactive,41
+Saturday,09-11-2024,22:48.20,Word,2.49,543416,2,Active,19
+Saturday,09-11-2024,22:09.21,Microsoft Store,0.9,651509,1,Inactive,15
+Saturday,09-11-2024,10:43.35,Steam,2.96,491112,4,Inactive,58
+Saturday,09-11-2024,16:56.52,Slack,1.91,530204,4,Active,46
+Saturday,09-11-2024,19:19.40,Netflix,0.51,280587,2,Active,23
+Saturday,09-11-2024,11:08.29,PowerPoint,3.4,533626,1,Inactive,11
+Saturday,09-11-2024,11:22.23,Xcode,2.73,189674,3,Inactive,20
+Saturday,09-11-2024,17:42.44,AutoCAD,3.8,491896,1,Active,42
+Saturday,09-11-2024,15:58.45,Adobe Photoshop,3.91,139919,1,Inactive,29
+Saturday,09-11-2024,13:14.51,Zoom,0.83,596681,2,Inactive,20
+Saturday,09-11-2024,23:06.47,Chrome,1.39,205728,4,Inactive,51
+Saturday,09-11-2024,10:53.05,Word,1.98,671681,2,Active,40
+Saturday,09-11-2024,10:53.23,Unity,3.58,496170,4,Inactive,59
+Saturday,09-11-2024,00:11.23,AutoCAD,5.0,329344,2,Active,15
+Saturday,09-11-2024,07:08.50,Slack,3.41,406313,1,Inactive,31
+Saturday,09-11-2024,00:29.37,Firefox,4.26,110266,4,Inactive,55
+Saturday,09-11-2024,07:40.21,PowerPoint,1.78,297779,2,Active,33
+Saturday,09-11-2024,12:07.40,YouTube,3.53,323138,2,Active,29
+Saturday,09-11-2024,07:34.45,Telegram,2.47,565266,2,Inactive,38
+Saturday,09-11-2024,19:45.55,Steam,3.49,143935,1,Inactive,16
+Saturday,09-11-2024,21:01.45,Telegram,4.96,456403,2,Active,58
+Saturday,09-11-2024,08:46.13,Steam,3.79,122543,1,Inactive,52
+Saturday,09-11-2024,18:39.23,Telegram,1.18,695439,1,Inactive,20
+Saturday,09-11-2024,00:04.30,Skype,4.29,673543,4,Active,43
+Saturday,09-11-2024,23:03.36,Netflix,3.48,161829,4,Active,15
+Saturday,09-11-2024,17:20.46,MATLAB,2.22,602660,1,Active,42
+Saturday,09-11-2024,15:10.46,Postman,3.1,470359,3,Inactive,36
+Saturday,09-11-2024,17:01.17,Steam,3.02,393858,3,Active,31
+Saturday,09-11-2024,22:38.40,Teams,4.86,276311,3,Inactive,45
+Saturday,09-11-2024,20:58.42,Outlook,3.73,474123,2,Inactive,58
+Saturday,09-11-2024,07:06.48,Netflix,3.15,541999,1,Active,24
+Saturday,09-11-2024,11:21.01,Excel,1.13,315813,1,Inactive,35
+Saturday,09-11-2024,14:51.46,Microsoft Store,4.86,610794,1,Inactive,58
+Saturday,09-11-2024,22:55.55,Unity,4.88,500329,2,Inactive,42
+Saturday,09-11-2024,15:52.04,Chrome,2.62,514666,4,Inactive,58
+Saturday,09-11-2024,15:11.26,Postman,1.47,449135,4,Inactive,22
+Saturday,09-11-2024,19:32.49,OBS Studio,4.91,536881,1,Active,18
+Saturday,09-11-2024,21:34.19,Excel,0.69,690456,1,Inactive,10
+Saturday,09-11-2024,22:04.53,Adobe Photoshop,3.24,105408,4,Inactive,33
+Saturday,09-11-2024,12:52.09,Telegram,2.45,309194,2,Active,38
+Saturday,09-11-2024,13:16.38,Adobe Photoshop,4.57,409161,2,Active,13
+Saturday,09-11-2024,20:45.48,Android Studio,2.92,108822,1,Active,57
+Saturday,09-11-2024,00:11.14,Eclipse,3.03,356115,2,Inactive,14
+Saturday,09-11-2024,18:05.46,Spotify,2.72,213210,3,Active,52
+Saturday,09-11-2024,21:52.44,Outlook,0.36,407954,1,Active,36
+Saturday,09-11-2024,23:08.46,Telegram,3.6,694941,1,Active,60
+Saturday,09-11-2024,15:05.56,Word,4.41,623494,1,Active,14
+Saturday,09-11-2024,18:59.32,Edge,1.8,417402,3,Active,49
+Sunday,10-11-2024,08:10.25,Word,2.07,387253,1,Active,44
+Sunday,10-11-2024,23:07.49,VSCode,4.32,239256,3,Active,43
+Sunday,10-11-2024,18:38.39,Steam,3.36,634462,2,Active,23
+Sunday,10-11-2024,23:08.11,MATLAB,1.01,304903,4,Active,31
+Sunday,10-11-2024,14:43.25,Xcode,0.98,220954,2,Inactive,24
+Sunday,10-11-2024,20:43.10,Edge,2.06,666737,1,Active,56
+Sunday,10-11-2024,09:57.05,Chrome,1.34,200589,1,Active,14
+Sunday,10-11-2024,19:57.40,Firefox,2.59,553596,2,Inactive,29
+Sunday,10-11-2024,23:31.03,Telegram,3.32,123507,4,Inactive,30
+Sunday,10-11-2024,19:01.27,Word,2.38,660194,2,Inactive,35
+Sunday,10-11-2024,00:24.57,Jira,2.59,410698,1,Active,32
+Sunday,10-11-2024,21:06.12,VSCode,4.58,480966,2,Active,20
+Sunday,10-11-2024,13:07.37,Eclipse,4.25,258427,2,Active,34
+Sunday,10-11-2024,10:39.28,IntelliJ IDEA,2.23,235443,1,Active,48
+Sunday,10-11-2024,23:42.13,Steam,2.31,357916,1,Active,26
+Sunday,10-11-2024,16:30.07,Figma,2.99,691435,4,Active,56
+Sunday,10-11-2024,12:57.52,Microsoft Store,3.32,691972,2,Inactive,12
+Sunday,10-11-2024,19:03.09,Blender,1.87,412551,1,Active,21
+Sunday,10-11-2024,13:09.36,Eclipse,4.46,330758,1,Inactive,38
+Sunday,10-11-2024,00:34.37,Visual Studio,1.31,145699,4,Active,23
+Sunday,10-11-2024,18:10.37,Xcode,2.59,640919,1,Inactive,48
+Sunday,10-11-2024,23:21.11,Trello,1.71,318251,1,Inactive,60
+Sunday,10-11-2024,21:09.45,Adobe Illustrator,4.33,135727,1,Inactive,45
+Sunday,10-11-2024,07:57.22,Opera,3.67,540746,1,Active,53
+Sunday,10-11-2024,12:29.59,WhatsApp,1.54,224115,2,Inactive,33
+Sunday,10-11-2024,14:09.03,Telegram,4.06,242966,2,Inactive,60
+Sunday,10-11-2024,20:04.18,Teams,2.4,478797,1,Inactive,56
+Sunday,10-11-2024,21:38.28,MATLAB,1.04,364721,1,Active,15
+Sunday,10-11-2024,08:48.22,Steam,2.76,502302,2,Active,38
+Sunday,10-11-2024,07:00.21,Slack,3.09,276136,2,Active,19
+Sunday,10-11-2024,15:18.30,Teams,3.15,514970,1,Inactive,19
+Sunday,10-11-2024,07:39.35,OneNote,1.14,466602,1,Active,30
+Sunday,10-11-2024,00:36.26,Skype,3.42,248404,4,Inactive,52
+Sunday,10-11-2024,19:03.23,Edge,0.45,280548,1,Inactive,41
+Sunday,10-11-2024,08:28.51,Opera,1.98,255587,1,Active,18
+Sunday,10-11-2024,08:36.03,Blender,4.95,383899,1,Inactive,22
+Sunday,10-11-2024,12:00.28,Unity,3.92,343578,1,Active,44
+Sunday,10-11-2024,14:06.04,Firefox,0.58,444910,2,Active,18
+Sunday,10-11-2024,21:44.39,Teams,1.56,381295,1,Active,36
+Sunday,10-11-2024,07:40.17,Spotify,2.95,236407,1,Active,15
+Sunday,10-11-2024,17:17.01,Outlook,3.53,376554,4,Active,35
+Sunday,10-11-2024,10:36.25,IntelliJ IDEA,0.62,271346,2,Inactive,51
+Sunday,10-11-2024,18:17.24,Steam,0.57,380135,1,Active,58
+Sunday,10-11-2024,11:46.34,Zoom,1.61,219544,3,Active,27
+Sunday,10-11-2024,00:16.50,Unity,4.38,628484,2,Inactive,36
+Sunday,10-11-2024,21:55.54,YouTube,4.98,111913,1,Active,51
+Sunday,10-11-2024,22:50.33,Jira,1.43,260100,3,Active,28
+Sunday,10-11-2024,21:58.48,Xcode,1.45,134312,2,Active,42
+Sunday,10-11-2024,18:00.58,Microsoft Store,4.79,212986,1,Inactive,12
+Sunday,10-11-2024,11:41.03,Figma,2.65,288524,2,Inactive,51
+Sunday,10-11-2024,16:28.51,Teams,3.72,383904,4,Active,38
+Sunday,10-11-2024,00:04.18,Trello,0.4,576176,1,Active,11
+Sunday,10-11-2024,15:17.46,Eclipse,2.24,147598,1,Inactive,46
+Sunday,10-11-2024,17:16.27,Trello,2.32,316557,2,Inactive,55
+Sunday,10-11-2024,14:52.13,Zoom,2.28,670144,2,Inactive,55
+Sunday,10-11-2024,11:07.11,AutoCAD,4.45,462240,3,Inactive,55
+Sunday,10-11-2024,10:37.54,Discord,2.67,383544,3,Inactive,51
+Sunday,10-11-2024,15:40.43,PowerPoint,4.15,597664,2,Inactive,11
+Sunday,10-11-2024,23:27.15,Unity,3.44,415162,2,Inactive,25
+Sunday,10-11-2024,21:32.45,MATLAB,4.64,130689,1,Inactive,48
+Sunday,10-11-2024,13:50.38,Telegram,4.57,668223,2,Active,14
+Sunday,10-11-2024,15:25.23,Skype,0.85,514266,3,Inactive,24
+Sunday,10-11-2024,07:36.59,Opera,3.33,384998,1,Active,52
+Sunday,10-11-2024,07:40.18,Teams,1.8,291553,2,Inactive,35
+Sunday,10-11-2024,12:09.15,Netflix,4.45,269925,2,Active,52
+Sunday,10-11-2024,11:21.59,Opera,4.27,445949,4,Active,28
+Sunday,10-11-2024,11:45.25,Visual Studio,2.77,671921,4,Active,19
+Sunday,10-11-2024,19:20.53,Teams,1.26,689532,1,Active,43
+Sunday,10-11-2024,10:45.16,Android Studio,3.62,498676,3,Active,33
+Sunday,10-11-2024,16:58.05,Xcode,0.93,162096,1,Active,52
+Sunday,10-11-2024,00:24.39,Word,4.44,604899,4,Inactive,11
+Sunday,10-11-2024,14:57.57,AutoCAD,4.87,451304,2,Active,57
+Sunday,10-11-2024,10:21.48,OneNote,2.42,335153,3,Inactive,17
+Sunday,10-11-2024,15:26.33,Excel,0.66,554351,4,Inactive,54
+Sunday,10-11-2024,22:13.50,Blender,2.67,662996,4,Active,36
+Sunday,10-11-2024,07:39.03,Unity,1.25,422863,1,Inactive,24
+Sunday,10-11-2024,09:14.11,Unity,4.92,118431,2,Active,28
+Sunday,10-11-2024,16:55.28,Figma,3.8,617393,4,Inactive,11
+Sunday,10-11-2024,10:56.57,Discord,0.62,667767,1,Active,43
+Sunday,10-11-2024,00:08.17,IntelliJ IDEA,1.52,394914,2,Inactive,18
+Sunday,10-11-2024,14:00.13,YouTube,3.29,298405,1,Active,57
+Sunday,10-11-2024,16:14.05,VSCode,4.19,690771,1,Inactive,49
+Sunday,10-11-2024,16:46.03,PowerPoint,1.82,473609,1,Active,19
+Monday,11-11-2024,18:16.22,Postman,4.02,251168,1,Inactive,17
+Monday,11-11-2024,17:12.40,PowerPoint,1.98,525520,1,Inactive,10
+Monday,11-11-2024,18:34.58,VSCode,2.69,634954,1,Active,56
+Monday,11-11-2024,13:57.42,Zoom,2.31,142884,1,Active,38
+Monday,11-11-2024,17:13.28,Notion,1.03,375483,2,Inactive,29
+Monday,11-11-2024,21:29.24,Blender,1.85,265057,2,Inactive,44
+Monday,11-11-2024,15:01.35,YouTube,3.6,299019,3,Active,35
+Monday,11-11-2024,22:45.36,Microsoft Store,1.58,321998,2,Inactive,38
+Monday,11-11-2024,14:00.01,Xcode,2.25,114665,1,Inactive,35
+Monday,11-11-2024,21:58.19,Microsoft Store,1.53,508148,1,Inactive,33
+Monday,11-11-2024,12:30.02,Trello,0.4,559821,2,Active,14
+Monday,11-11-2024,16:02.45,Figma,1.48,612904,3,Inactive,42
+Monday,11-11-2024,11:27.57,Outlook,4.68,507274,4,Active,11
+Monday,11-11-2024,22:24.18,Opera,3.32,120438,3,Inactive,32
+Monday,11-11-2024,10:26.07,Word,2.16,127875,4,Inactive,31
+Monday,11-11-2024,14:08.17,OBS Studio,3.14,171456,1,Active,16
+Monday,11-11-2024,22:38.30,Adobe Photoshop,4.26,206450,4,Active,57
+Monday,11-11-2024,11:44.36,Xcode,4.07,167280,2,Active,14
+Monday,11-11-2024,12:29.43,Teams,2.76,375432,1,Inactive,45
+Monday,11-11-2024,20:12.33,Postman,2.12,154766,2,Active,53
+Monday,11-11-2024,20:36.32,Google Drive,2.94,500343,1,Active,60
+Monday,11-11-2024,16:21.59,OBS Studio,4.87,154730,1,Active,44
+Monday,11-11-2024,17:39.30,Skype,0.7,678336,2,Active,36
+Monday,11-11-2024,09:34.45,Edge,2.43,158724,2,Active,30
+Monday,11-11-2024,14:30.28,Skype,4.92,533276,1,Active,14
+Monday,11-11-2024,07:43.02,Edge,4.24,676788,2,Inactive,29
+Monday,11-11-2024,21:25.08,Microsoft Store,0.62,151807,1,Active,54
+Monday,11-11-2024,07:18.33,Google Drive,4.61,626127,2,Inactive,13
+Monday,11-11-2024,20:25.33,Figma,2.49,535420,1,Inactive,33
+Monday,11-11-2024,09:51.40,Figma,0.58,488418,1,Active,48
+Monday,11-11-2024,14:07.18,Jira,4.93,397813,1,Active,57
+Monday,11-11-2024,21:02.45,Google Drive,2.64,615670,1,Inactive,48
+Monday,11-11-2024,14:55.00,OBS Studio,2.51,689277,2,Inactive,17
+Monday,11-11-2024,17:07.43,Trello,4.4,445062,4,Active,15
+Monday,11-11-2024,08:17.54,Slack,2.71,341368,2,Active,45
+Monday,11-11-2024,21:54.30,Slack,0.43,591999,1,Active,45
+Monday,11-11-2024,13:07.42,Steam,4.35,335001,1,Active,44
+Monday,11-11-2024,19:11.08,OBS Studio,1.37,451608,1,Active,31
+Monday,11-11-2024,16:44.52,Slack,1.99,383468,2,Inactive,56
+Monday,11-11-2024,09:28.21,Figma,2.66,402505,2,Active,21
+Monday,11-11-2024,13:52.04,Spotify,3.3,485543,2,Active,19
+Monday,11-11-2024,17:56.05,Telegram,3.68,106525,4,Inactive,54
+Monday,11-11-2024,23:41.44,Skype,1.08,349239,3,Active,24
+Monday,11-11-2024,08:46.35,Android Studio,2.1,480108,1,Inactive,49
+Monday,11-11-2024,22:35.41,WhatsApp,1.89,672050,2,Inactive,12
+Monday,11-11-2024,07:28.04,IntelliJ IDEA,3.13,552722,1,Inactive,59
+Monday,11-11-2024,20:52.20,Trello,3.63,298115,1,Active,34
+Monday,11-11-2024,10:52.08,PowerPoint,3.0,496550,3,Active,52
+Monday,11-11-2024,13:46.18,Adobe Illustrator,0.64,463250,2,Active,14
+Monday,11-11-2024,16:10.13,Firefox,4.56,405984,2,Inactive,35
+Monday,11-11-2024,21:57.14,Notion,2.1,498316,1,Inactive,36
+Monday,11-11-2024,19:48.59,PowerPoint,3.48,370251,1,Inactive,28
+Monday,11-11-2024,14:44.30,Skype,3.46,411510,2,Active,53
+Monday,11-11-2024,14:03.21,Steam,0.37,296642,2,Inactive,58
+Monday,11-11-2024,11:31.25,VSCode,3.31,298765,2,Active,44
+Monday,11-11-2024,13:34.29,OBS Studio,2.77,254563,1,Inactive,25
+Monday,11-11-2024,08:50.37,MATLAB,4.4,497959,2,Inactive,42
+Monday,11-11-2024,07:25.11,VSCode,4.42,485153,1,Active,58
+Monday,11-11-2024,16:52.25,Blender,1.57,539507,4,Active,59
+Monday,11-11-2024,11:19.11,Firefox,2.64,675962,3,Active,50
+Monday,11-11-2024,20:45.54,Adobe Photoshop,4.14,245987,2,Active,39
+Monday,11-11-2024,11:52.18,Notion,1.85,572691,4,Active,12
+Monday,11-11-2024,09:52.04,Zoom,3.39,465995,2,Active,39
+Monday,11-11-2024,13:51.37,AutoCAD,4.95,687839,1,Active,19
+Monday,11-11-2024,15:48.29,YouTube,0.52,181895,1,Active,60
+Monday,11-11-2024,07:46.47,Spotify,1.99,206455,2,Inactive,50
+Monday,11-11-2024,10:40.41,Outlook,4.84,174304,2,Active,51
+Monday,11-11-2024,10:56.37,Teams,2.01,325177,2,Active,58
+Monday,11-11-2024,11:42.13,Jira,1.85,643346,4,Inactive,38
+Monday,11-11-2024,14:41.28,OneNote,4.26,101784,1,Active,25
+Monday,11-11-2024,12:39.15,Adobe Illustrator,0.34,259705,2,Inactive,11
+Monday,11-11-2024,13:43.41,Chrome,0.91,175069,2,Active,24
+Monday,11-11-2024,13:36.20,AutoCAD,3.87,246811,1,Inactive,50
+Monday,11-11-2024,23:43.12,OBS Studio,4.6,688222,4,Active,60
+Tuesday,12-11-2024,16:26.52,PowerPoint,2.38,491295,1,Active,24
+Tuesday,12-11-2024,17:59.03,Chrome,4.1,604644,1,Active,34
+Tuesday,12-11-2024,18:47.39,Android Studio,2.23,228503,4,Active,11
+Tuesday,12-11-2024,23:38.31,AutoCAD,3.37,114465,2,Active,19
+Tuesday,12-11-2024,20:33.42,Zoom,2.34,526534,2,Inactive,50
+Tuesday,12-11-2024,20:46.59,GitHub Desktop,4.81,660120,2,Active,19
+Tuesday,12-11-2024,17:25.25,Outlook,2.24,175367,4,Inactive,14
+Tuesday,12-11-2024,22:23.34,Skype,2.7,210208,1,Inactive,18
+Tuesday,12-11-2024,11:22.54,PowerPoint,1.96,412968,2,Inactive,60
+Tuesday,12-11-2024,21:02.51,Netflix,0.6,574224,1,Inactive,39
+Tuesday,12-11-2024,15:54.03,Figma,4.59,318779,4,Active,40
+Tuesday,12-11-2024,08:35.23,MATLAB,4.42,157791,1,Active,50
+Tuesday,12-11-2024,14:44.40,MATLAB,4.41,519763,2,Active,55
+Tuesday,12-11-2024,16:45.41,Notion,3.15,480658,3,Inactive,53
+Tuesday,12-11-2024,08:15.04,YouTube,0.64,128143,2,Inactive,25
+Tuesday,12-11-2024,16:36.44,Excel,4.79,277124,4,Active,38
+Tuesday,12-11-2024,00:45.30,Outlook,4.68,374732,3,Inactive,24
+Tuesday,12-11-2024,11:13.17,GitHub Desktop,0.93,689529,2,Inactive,11
+Tuesday,12-11-2024,09:51.05,Trello,1.26,173892,1,Active,38
+Tuesday,12-11-2024,21:21.01,Microsoft Store,1.36,473457,2,Inactive,17
+Tuesday,12-11-2024,07:40.39,Opera,3.97,320544,1,Inactive,22
+Tuesday,12-11-2024,19:30.58,Microsoft Store,3.92,654183,1,Active,20
+Tuesday,12-11-2024,15:58.34,Postman,1.75,112187,3,Inactive,13
+Tuesday,12-11-2024,11:00.08,Figma,4.94,486803,4,Active,19
+Tuesday,12-11-2024,20:00.49,Unity,1.69,142521,1,Inactive,29
+Tuesday,12-11-2024,12:25.53,Adobe Illustrator,2.07,563390,2,Inactive,32
+Tuesday,12-11-2024,08:12.31,Microsoft Store,3.44,541353,2,Active,54
+Tuesday,12-11-2024,21:23.39,Excel,1.81,488258,2,Active,22
+Tuesday,12-11-2024,00:55.45,Microsoft Store,3.96,539707,4,Active,10
+Tuesday,12-11-2024,10:51.37,Telegram,4.87,694553,1,Active,40
+Tuesday,12-11-2024,11:09.19,VSCode,3.31,260163,4,Inactive,18
+Tuesday,12-11-2024,12:57.45,GitHub Desktop,4.76,266741,2,Inactive,32
+Tuesday,12-11-2024,21:26.25,Notion,0.34,655785,2,Inactive,41
+Tuesday,12-11-2024,08:47.17,PowerPoint,0.81,453852,1,Active,16
+Tuesday,12-11-2024,22:44.51,Slack,0.33,204635,1,Active,46
+Tuesday,12-11-2024,07:17.20,OneNote,0.58,245434,2,Inactive,13
+Tuesday,12-11-2024,17:10.47,Skype,4.39,213172,1,Inactive,39
+Tuesday,12-11-2024,20:53.59,Jira,4.59,181690,1,Active,49
+Tuesday,12-11-2024,20:30.21,OneNote,4.74,280431,1,Active,17
+Tuesday,12-11-2024,18:23.36,Netflix,1.99,581033,3,Inactive,42
+Tuesday,12-11-2024,17:29.50,Spotify,4.39,620268,1,Active,29
+Tuesday,12-11-2024,18:15.00,Unity,3.47,266949,2,Active,39
+Tuesday,12-11-2024,21:20.39,Word,3.95,242279,1,Inactive,34
+Tuesday,12-11-2024,13:12.18,Spotify,2.2,658273,2,Active,58
+Tuesday,12-11-2024,20:59.16,GitHub Desktop,4.76,320326,2,Inactive,43
+Tuesday,12-11-2024,00:23.56,Firefox,2.81,656433,2,Active,12
+Tuesday,12-11-2024,16:13.01,Telegram,0.31,425017,2,Active,50
+Tuesday,12-11-2024,18:28.51,VSCode,1.74,142436,2,Active,26
+Tuesday,12-11-2024,15:55.37,Skype,1.39,120442,3,Inactive,49
+Tuesday,12-11-2024,21:00.41,GitHub Desktop,1.0,175298,2,Inactive,11
+Tuesday,12-11-2024,19:10.13,Telegram,3.07,224204,1,Active,22
+Tuesday,12-11-2024,14:11.26,Adobe Illustrator,4.5,536825,1,Inactive,13
+Tuesday,12-11-2024,16:28.07,VSCode,3.46,296581,2,Active,50
+Tuesday,12-11-2024,16:37.20,Blender,1.0,533502,3,Active,15
+Tuesday,12-11-2024,19:59.53,Skype,4.04,465840,2,Active,24
+Tuesday,12-11-2024,10:31.42,Outlook,0.49,616636,2,Inactive,18
+Tuesday,12-11-2024,07:30.55,Unity,2.02,100575,1,Inactive,36
+Tuesday,12-11-2024,09:45.49,Adobe Photoshop,4.46,518703,1,Active,44
+Tuesday,12-11-2024,11:52.58,Xcode,3.39,670459,1,Inactive,44
+Wednesday,13-11-2024,20:44.16,AutoCAD,3.89,140589,2,Inactive,26
+Wednesday,13-11-2024,15:33.24,Visual Studio,3.37,395394,3,Inactive,26
+Wednesday,13-11-2024,15:53.55,Adobe Illustrator,2.66,502673,2,Inactive,45
+Wednesday,13-11-2024,08:57.37,Google Drive,1.61,304683,2,Inactive,30
+Wednesday,13-11-2024,17:10.59,Jira,0.76,515795,3,Inactive,54
+Wednesday,13-11-2024,23:52.29,Outlook,2.08,644350,1,Inactive,34
+Wednesday,13-11-2024,21:58.58,Slack,2.15,157239,1,Inactive,36
+Wednesday,13-11-2024,15:44.19,Adobe Photoshop,1.19,571371,3,Inactive,15
+Wednesday,13-11-2024,13:30.05,MATLAB,0.84,311929,2,Active,46
+Wednesday,13-11-2024,22:18.16,Zoom,4.1,597307,2,Active,59
+Wednesday,13-11-2024,12:40.15,Telegram,1.87,282258,1,Inactive,21
+Wednesday,13-11-2024,00:29.05,GitHub Desktop,4.38,679903,3,Inactive,48
+Wednesday,13-11-2024,14:19.40,OneNote,1.8,331198,1,Inactive,42
+Wednesday,13-11-2024,12:29.38,OneNote,4.91,395558,1,Inactive,24
+Wednesday,13-11-2024,17:30.28,Firefox,4.67,620350,4,Inactive,52
+Wednesday,13-11-2024,00:04.52,Android Studio,1.72,247078,3,Active,33
+Wednesday,13-11-2024,11:49.42,Word,2.26,106520,2,Active,35
+Wednesday,13-11-2024,15:47.59,Outlook,2.12,530630,1,Inactive,47
+Wednesday,13-11-2024,17:41.15,OneNote,1.69,120315,1,Active,24
+Wednesday,13-11-2024,10:10.56,MATLAB,3.99,504732,1,Inactive,35
+Wednesday,13-11-2024,23:11.35,PowerPoint,2.26,138813,1,Inactive,19
+Wednesday,13-11-2024,20:18.57,GitHub Desktop,2.56,543378,1,Inactive,19
+Wednesday,13-11-2024,15:27.14,OBS Studio,1.52,344631,4,Inactive,24
+Wednesday,13-11-2024,18:25.55,MATLAB,2.94,210657,3,Inactive,37
+Wednesday,13-11-2024,14:45.31,Opera,4.11,374896,2,Inactive,39
+Wednesday,13-11-2024,12:14.33,Spotify,2.86,503338,2,Inactive,51
+Wednesday,13-11-2024,09:43.36,Netflix,3.7,404484,1,Active,23
+Wednesday,13-11-2024,17:39.15,Android Studio,2.82,329388,3,Inactive,29
+Wednesday,13-11-2024,12:50.30,Excel,0.46,335401,1,Inactive,28
+Wednesday,13-11-2024,13:54.10,Skype,0.58,679825,1,Active,46
+Wednesday,13-11-2024,19:35.38,Visual Studio,2.04,418799,2,Active,42
+Wednesday,13-11-2024,15:38.05,Edge,3.15,163666,4,Inactive,15
+Wednesday,13-11-2024,22:30.47,Telegram,3.15,133986,4,Active,20
+Wednesday,13-11-2024,13:55.13,Google Drive,1.64,665216,1,Active,51
+Wednesday,13-11-2024,16:35.59,Postman,1.66,240803,1,Active,33
+Wednesday,13-11-2024,13:05.34,Microsoft Store,3.54,574218,1,Active,16
+Wednesday,13-11-2024,15:39.39,Android Studio,4.3,383566,1,Active,43
+Wednesday,13-11-2024,20:03.15,OneNote,2.38,523363,2,Active,55
+Wednesday,13-11-2024,07:14.43,Visual Studio,1.28,150905,2,Inactive,30
+Wednesday,13-11-2024,20:07.06,Excel,4.75,517041,1,Active,33
+Wednesday,13-11-2024,22:27.15,Slack,1.35,216366,1,Inactive,59
+Wednesday,13-11-2024,00:56.21,Chrome,3.92,653217,2,Active,25
+Wednesday,13-11-2024,23:46.18,Figma,2.1,373548,2,Inactive,42
+Wednesday,13-11-2024,19:27.31,OneNote,3.02,639812,1,Active,38
+Wednesday,13-11-2024,00:26.46,Visual Studio,4.75,510826,3,Active,40
+Wednesday,13-11-2024,22:44.07,VSCode,0.59,636818,1,Active,27
+Wednesday,13-11-2024,20:55.07,Adobe Photoshop,4.84,100502,1,Inactive,59
+Wednesday,13-11-2024,11:16.47,Discord,3.17,262961,4,Inactive,46
+Wednesday,13-11-2024,12:54.24,Word,4.05,252569,2,Inactive,15
+Wednesday,13-11-2024,13:22.13,Jira,0.47,439663,2,Active,43
+Wednesday,13-11-2024,18:33.43,AutoCAD,4.95,445103,4,Inactive,10
+Wednesday,13-11-2024,00:37.12,WhatsApp,4.12,446758,1,Inactive,11
+Thursday,14-11-2024,15:09.12,Microsoft Store,4.17,385140,1,Active,29
+Thursday,14-11-2024,08:41.58,Slack,3.95,182379,1,Active,48
+Thursday,14-11-2024,19:13.15,Outlook,0.95,239540,2,Active,41
+Thursday,14-11-2024,11:52.53,Visual Studio,1.74,356385,3,Inactive,58
+Thursday,14-11-2024,19:22.35,Chrome,1.15,654352,1,Active,56
+Thursday,14-11-2024,08:12.14,Zoom,4.14,306078,2,Inactive,22
+Thursday,14-11-2024,12:50.16,OBS Studio,2.41,269433,1,Active,48
+Thursday,14-11-2024,11:45.44,Slack,3.59,228479,3,Active,20
+Thursday,14-11-2024,22:38.18,Jira,1.41,258316,4,Inactive,49
+Thursday,14-11-2024,18:31.33,Microsoft Store,4.61,615242,1,Active,32
+Thursday,14-11-2024,10:37.45,Outlook,1.26,143849,2,Active,14
+Thursday,14-11-2024,19:16.43,Discord,2.34,249749,2,Active,35
+Thursday,14-11-2024,00:39.25,Figma,4.13,466528,1,Active,20
+Thursday,14-11-2024,16:31.46,Telegram,1.26,256937,2,Inactive,23
+Thursday,14-11-2024,08:42.23,AutoCAD,1.54,227877,1,Active,30
+Thursday,14-11-2024,07:14.31,Netflix,4.84,223467,2,Active,45
+Thursday,14-11-2024,20:55.49,Adobe Illustrator,3.94,347967,2,Inactive,10
+Thursday,14-11-2024,16:01.15,Visual Studio,2.59,443740,1,Active,54
+Thursday,14-11-2024,13:29.10,Postman,1.15,378589,2,Active,19
+Thursday,14-11-2024,15:27.39,Spotify,1.45,224100,1,Inactive,53
+Thursday,14-11-2024,10:17.35,Google Drive,2.57,242734,4,Active,50
+Thursday,14-11-2024,11:47.43,Steam,2.23,329503,3,Inactive,30
+Thursday,14-11-2024,21:07.25,Discord,1.37,288516,1,Active,47
+Thursday,14-11-2024,10:30.12,Adobe Photoshop,1.01,605534,1,Inactive,27
+Thursday,14-11-2024,12:19.40,IntelliJ IDEA,3.5,638639,1,Active,22
+Thursday,14-11-2024,20:43.27,MATLAB,3.88,570392,1,Active,14
+Thursday,14-11-2024,22:46.39,PowerPoint,1.07,423273,1,Inactive,49
+Thursday,14-11-2024,13:29.02,Jira,1.47,682849,1,Active,45
+Thursday,14-11-2024,08:42.37,Excel,1.84,470540,1,Inactive,31
+Thursday,14-11-2024,14:34.07,OBS Studio,1.71,392967,1,Inactive,38
+Thursday,14-11-2024,15:56.39,Adobe Photoshop,3.12,604561,1,Active,35
+Thursday,14-11-2024,19:04.47,Google Drive,2.97,109416,2,Inactive,21
+Thursday,14-11-2024,09:33.15,Firefox,4.83,260636,1,Active,27
+Thursday,14-11-2024,15:28.16,Adobe Illustrator,1.01,425923,3,Active,60
+Thursday,14-11-2024,14:39.30,Adobe Photoshop,0.69,291924,2,Inactive,33
+Thursday,14-11-2024,07:09.11,Blender,3.89,667695,2,Active,14
+Thursday,14-11-2024,13:59.28,Firefox,0.72,655324,2,Active,53
+Thursday,14-11-2024,14:14.32,Adobe Photoshop,1.47,300077,1,Active,35
+Thursday,14-11-2024,21:11.26,Google Drive,0.87,374778,1,Inactive,19
+Thursday,14-11-2024,13:23.35,Google Drive,0.48,295085,2,Inactive,43
+Thursday,14-11-2024,16:51.20,Notion,4.15,375515,1,Inactive,16
+Thursday,14-11-2024,23:56.18,IntelliJ IDEA,2.79,440575,4,Inactive,24
+Thursday,14-11-2024,08:27.40,Unity,2.71,177160,1,Active,50
+Thursday,14-11-2024,20:39.47,Visual Studio,4.08,391479,2,Active,57
+Thursday,14-11-2024,21:45.27,Xcode,2.29,375088,2,Active,35
+Thursday,14-11-2024,22:38.38,YouTube,1.53,262581,1,Inactive,29
+Thursday,14-11-2024,08:59.24,OBS Studio,0.4,515234,1,Inactive,11
+Thursday,14-11-2024,18:08.16,Unity,1.19,698752,4,Active,55
+Thursday,14-11-2024,14:28.13,Slack,0.46,324201,1,Inactive,16
+Thursday,14-11-2024,19:17.25,Slack,1.7,316657,1,Active,33
+Thursday,14-11-2024,15:12.21,VSCode,2.74,261380,4,Inactive,18
+Thursday,14-11-2024,08:53.31,Blender,1.56,339957,2,Active,49
+Thursday,14-11-2024,09:33.41,Skype,1.13,176909,1,Active,54
+Thursday,14-11-2024,13:17.54,Skype,1.51,468631,1,Active,45
+Thursday,14-11-2024,19:33.13,Eclipse,3.12,338897,2,Active,34
+Thursday,14-11-2024,15:21.09,WhatsApp,3.39,367294,4,Active,60
+Friday,15-11-2024,17:07.59,Slack,3.41,571169,2,Inactive,21
+Friday,15-11-2024,17:42.03,WhatsApp,1.27,534886,2,Active,50
+Friday,15-11-2024,11:19.36,Outlook,3.92,233847,3,Active,39
+Friday,15-11-2024,15:04.09,Spotify,0.45,601634,2,Active,32
+Friday,15-11-2024,00:39.06,Notion,1.6,186069,1,Active,31
+Friday,15-11-2024,08:19.53,Adobe Photoshop,2.48,434236,1,Inactive,11
+Friday,15-11-2024,16:46.36,Edge,1.39,688381,1,Active,28
+Friday,15-11-2024,21:48.03,GitHub Desktop,1.33,406872,2,Active,16
+Friday,15-11-2024,15:03.26,Zoom,1.31,268992,3,Active,16
+Friday,15-11-2024,07:50.19,Slack,4.41,480833,1,Inactive,14
+Friday,15-11-2024,18:16.54,Visual Studio,0.58,336482,1,Active,51
+Friday,15-11-2024,23:54.34,Outlook,2.83,174621,4,Active,20
+Friday,15-11-2024,10:59.29,Jira,1.42,465463,1,Active,10
+Friday,15-11-2024,22:08.19,Opera,3.45,633030,3,Active,11
+Friday,15-11-2024,22:43.52,Excel,0.89,477402,2,Inactive,47
+Friday,15-11-2024,22:25.31,AutoCAD,1.53,446256,1,Active,18
+Friday,15-11-2024,22:32.20,OBS Studio,0.94,285530,1,Active,23
+Friday,15-11-2024,00:33.39,Netflix,4.87,650104,3,Inactive,53
+Friday,15-11-2024,08:43.35,YouTube,3.95,180773,1,Inactive,23
+Friday,15-11-2024,15:32.06,Telegram,0.72,240645,2,Active,32
+Friday,15-11-2024,12:37.19,OBS Studio,4.54,253210,1,Inactive,59
+Friday,15-11-2024,12:07.44,Netflix,2.12,487588,2,Active,24
+Friday,15-11-2024,12:07.22,GitHub Desktop,2.96,283288,2,Active,35
+Friday,15-11-2024,12:05.15,VSCode,4.34,191745,2,Active,19
+Friday,15-11-2024,21:20.38,Discord,3.84,659983,2,Inactive,33
+Friday,15-11-2024,19:42.34,Trello,2.36,372462,1,Inactive,18
+Friday,15-11-2024,09:28.19,Steam,2.26,398536,1,Inactive,60
+Friday,15-11-2024,22:00.23,Opera,4.66,463064,1,Active,15
+Friday,15-11-2024,17:14.39,Unity,4.77,489288,1,Inactive,49
+Friday,15-11-2024,23:28.18,Discord,1.74,528753,2,Active,37
+Friday,15-11-2024,00:48.00,Edge,2.67,444977,1,Inactive,24
+Friday,15-11-2024,10:38.58,WhatsApp,3.94,437607,1,Inactive,51
+Friday,15-11-2024,22:40.24,Eclipse,4.71,263427,4,Inactive,57
+Friday,15-11-2024,19:16.08,Discord,0.63,157168,2,Inactive,28
+Friday,15-11-2024,07:29.36,Teams,1.95,335684,1,Inactive,58
+Friday,15-11-2024,20:19.29,AutoCAD,1.84,126837,2,Active,53
+Friday,15-11-2024,09:14.09,AutoCAD,2.59,269347,2,Active,60
+Friday,15-11-2024,14:33.33,Adobe Photoshop,2.98,345775,2,Inactive,47
+Friday,15-11-2024,10:36.38,Google Drive,1.86,274116,3,Inactive,53
+Friday,15-11-2024,20:21.41,PowerPoint,0.93,323344,1,Active,21
+Friday,15-11-2024,16:37.14,Postman,2.29,293328,1,Active,33
+Friday,15-11-2024,17:58.21,Edge,2.56,521819,3,Inactive,33
+Friday,15-11-2024,13:57.41,Blender,0.66,241179,1,Active,26
+Friday,15-11-2024,20:40.34,AutoCAD,5.0,613141,2,Active,48
+Friday,15-11-2024,17:17.06,Jira,2.76,659508,2,Inactive,46
+Friday,15-11-2024,14:29.16,Visual Studio,4.98,646454,1,Active,25
+Friday,15-11-2024,08:14.02,Adobe Photoshop,1.73,599055,1,Inactive,59
+Friday,15-11-2024,21:09.05,IntelliJ IDEA,4.82,508660,1,Active,53
+Friday,15-11-2024,11:23.24,GitHub Desktop,3.18,148194,4,Inactive,45
+Friday,15-11-2024,23:57.52,Notion,0.88,527774,1,Inactive,21
+Friday,15-11-2024,16:23.46,WhatsApp,2.22,304699,3,Inactive,33
+Friday,15-11-2024,12:03.44,Google Drive,4.38,630322,1,Active,38
+Friday,15-11-2024,08:18.25,VSCode,0.98,617524,2,Inactive,28
+Friday,15-11-2024,23:40.40,Figma,3.89,323027,3,Active,16
+Friday,15-11-2024,00:42.17,Jira,4.06,219505,1,Inactive,38
+Friday,15-11-2024,12:40.31,Skype,3.09,254549,1,Active,39
+Friday,15-11-2024,12:49.50,Blender,0.51,505669,2,Active,42
+Friday,15-11-2024,19:35.12,Blender,2.33,475952,1,Inactive,24
+Friday,15-11-2024,12:50.57,Word,0.78,443962,1,Inactive,21
+Friday,15-11-2024,00:16.52,Word,0.64,395412,4,Active,20
+Friday,15-11-2024,00:51.41,Visual Studio,2.53,256278,2,Active,40
+Friday,15-11-2024,12:33.57,Skype,2.19,299015,2,Active,34
+Friday,15-11-2024,15:40.49,IntelliJ IDEA,4.25,284273,1,Inactive,36
+Friday,15-11-2024,08:33.16,Figma,2.08,260589,1,Inactive,59
+Friday,15-11-2024,13:34.50,Eclipse,3.11,326774,1,Active,52
+Friday,15-11-2024,14:33.12,Adobe Illustrator,2.37,521299,1,Active,53
+Friday,15-11-2024,00:31.18,OneNote,4.13,156823,2,Inactive,56
+Friday,15-11-2024,07:48.49,Slack,2.14,384796,2,Active,37
+Friday,15-11-2024,16:31.40,Discord,2.78,515474,1,Inactive,49
+Friday,15-11-2024,11:02.12,Postman,0.81,509791,2,Active,23
+Friday,15-11-2024,20:50.29,Steam,2.7,420783,2,Inactive,32
+Friday,15-11-2024,19:20.48,OBS Studio,4.3,188028,1,Active,38
+Saturday,16-11-2024,18:05.31,PowerPoint,1.64,422118,2,Active,33
+Saturday,16-11-2024,07:51.25,Outlook,2.55,682702,2,Active,35
+Saturday,16-11-2024,16:16.55,PowerPoint,4.42,309229,3,Active,43
+Saturday,16-11-2024,13:00.35,Visual Studio,0.98,666843,2,Inactive,12
+Saturday,16-11-2024,14:44.56,Discord,3.32,474226,1,Active,15
+Saturday,16-11-2024,19:02.27,Adobe Photoshop,1.54,292423,2,Inactive,21
+Saturday,16-11-2024,08:23.11,Jira,2.44,360778,2,Inactive,37
+Saturday,16-11-2024,12:14.44,Android Studio,1.92,260778,2,Inactive,18
+Saturday,16-11-2024,18:57.29,Netflix,0.61,339762,1,Inactive,54
+Saturday,16-11-2024,23:42.16,IntelliJ IDEA,3.41,217418,2,Active,29
+Saturday,16-11-2024,18:59.47,YouTube,3.38,382047,2,Inactive,17
+Saturday,16-11-2024,10:17.15,Zoom,2.66,433262,3,Inactive,17
+Saturday,16-11-2024,23:11.31,Telegram,0.53,689486,2,Active,46
+Saturday,16-11-2024,11:52.54,Teams,4.63,205527,2,Inactive,31
+Saturday,16-11-2024,16:51.56,Xcode,0.69,505260,1,Inactive,17
+Saturday,16-11-2024,19:46.49,WhatsApp,0.34,196144,2,Inactive,17
+Saturday,16-11-2024,07:44.26,PowerPoint,1.49,126748,1,Active,45
+Saturday,16-11-2024,15:45.51,Adobe Photoshop,2.39,289801,3,Active,58
+Saturday,16-11-2024,18:29.01,Discord,1.84,171591,3,Active,32
+Saturday,16-11-2024,22:22.03,Chrome,2.46,368923,4,Inactive,15
+Saturday,16-11-2024,20:11.20,Google Drive,3.67,454963,2,Inactive,29
+Saturday,16-11-2024,13:35.37,Adobe Illustrator,0.52,451301,1,Active,44
+Saturday,16-11-2024,11:51.00,Postman,1.4,238479,3,Inactive,12
+Saturday,16-11-2024,09:23.19,Visual Studio,3.99,599926,1,Active,10
+Saturday,16-11-2024,11:36.36,Adobe Illustrator,3.55,631715,1,Active,31
+Saturday,16-11-2024,12:56.11,WhatsApp,4.45,243328,1,Inactive,29
+Saturday,16-11-2024,14:27.01,IntelliJ IDEA,2.04,525095,2,Inactive,34
+Saturday,16-11-2024,16:43.52,Zoom,4.32,622894,4,Active,26
+Saturday,16-11-2024,09:32.32,Zoom,1.9,118177,2,Inactive,28
+Saturday,16-11-2024,13:31.35,Skype,1.51,321411,2,Active,27
+Saturday,16-11-2024,11:18.06,Blender,4.72,621730,3,Active,27
+Saturday,16-11-2024,14:37.02,Steam,4.27,661850,2,Active,18
+Saturday,16-11-2024,15:41.28,IntelliJ IDEA,1.98,504739,4,Inactive,47
+Saturday,16-11-2024,08:00.20,Microsoft Store,3.03,230231,1,Active,49
+Saturday,16-11-2024,08:22.24,Spotify,1.03,518013,1,Inactive,20
+Saturday,16-11-2024,12:33.18,AutoCAD,4.72,320302,2,Inactive,41
+Saturday,16-11-2024,16:55.25,Word,2.51,483704,2,Inactive,51
+Saturday,16-11-2024,16:30.46,Firefox,2.99,261289,2,Inactive,17
+Saturday,16-11-2024,18:45.52,Spotify,4.73,114648,2,Active,39
+Saturday,16-11-2024,20:58.42,Discord,0.96,678994,1,Inactive,23
+Saturday,16-11-2024,23:37.41,Xcode,3.41,419631,2,Inactive,43
+Saturday,16-11-2024,20:57.49,Notion,4.34,394082,2,Inactive,40
+Saturday,16-11-2024,19:42.09,Outlook,1.82,678873,1,Active,29
+Saturday,16-11-2024,08:50.12,Trello,1.42,505553,1,Active,21
+Saturday,16-11-2024,18:20.56,Unity,1.26,138762,3,Inactive,56
+Saturday,16-11-2024,00:47.27,Excel,3.33,520282,4,Inactive,33
+Saturday,16-11-2024,20:03.31,Excel,1.48,542008,1,Inactive,26
+Saturday,16-11-2024,08:28.22,Word,0.83,360009,1,Active,37
+Saturday,16-11-2024,21:19.02,Teams,3.47,687547,1,Active,32
+Saturday,16-11-2024,08:08.30,Spotify,4.91,466140,2,Inactive,20
+Saturday,16-11-2024,22:28.43,Figma,4.9,471676,3,Inactive,12
+Saturday,16-11-2024,18:55.15,Zoom,0.94,422686,4,Active,57
+Saturday,16-11-2024,22:24.33,Trello,1.86,338946,3,Inactive,20
+Saturday,16-11-2024,22:48.43,Outlook,4.48,653828,3,Active,11
+Saturday,16-11-2024,15:15.50,AutoCAD,3.68,477471,4,Active,55
+Saturday,16-11-2024,20:29.38,GitHub Desktop,0.74,472893,1,Active,59
+Saturday,16-11-2024,11:35.42,Microsoft Store,1.29,521697,2,Active,48
+Saturday,16-11-2024,16:24.21,Skype,4.28,519965,3,Active,20
+Saturday,16-11-2024,12:35.27,Microsoft Store,0.59,169737,1,Active,59
+Saturday,16-11-2024,21:18.31,Chrome,3.3,575022,2,Inactive,53
+Saturday,16-11-2024,18:05.14,Edge,4.84,544811,3,Active,45
+Saturday,16-11-2024,23:47.16,Slack,1.69,453470,2,Active,20
+Saturday,16-11-2024,10:09.52,Android Studio,1.73,385587,2,Active,39
+Saturday,16-11-2024,22:33.45,OneNote,1.76,319817,2,Inactive,37
+Saturday,16-11-2024,10:54.39,Adobe Illustrator,0.86,134546,1,Inactive,46
+Saturday,16-11-2024,08:13.26,Trello,2.76,204952,2,Inactive,17
+Saturday,16-11-2024,12:53.31,Figma,3.57,335264,1,Active,18
+Saturday,16-11-2024,14:24.15,Spotify,4.19,345441,1,Inactive,33
+Saturday,16-11-2024,14:51.45,Word,3.06,284875,2,Active,33
+Saturday,16-11-2024,10:08.08,Unity,2.56,277671,4,Inactive,37
+Saturday,16-11-2024,08:18.25,Edge,2.81,165269,2,Active,20
+Saturday,16-11-2024,19:51.06,Slack,4.13,596412,2,Inactive,55
+Saturday,16-11-2024,17:04.10,Outlook,1.58,696947,3,Inactive,27
+Saturday,16-11-2024,22:24.56,OneNote,4.68,370252,3,Active,50
+Saturday,16-11-2024,10:50.23,Netflix,0.41,309779,3,Active,53
+Saturday,16-11-2024,00:35.33,Opera,2.86,559737,2,Inactive,17
+Saturday,16-11-2024,20:39.29,GitHub Desktop,2.58,180796,2,Inactive,43
+Saturday,16-11-2024,11:15.41,AutoCAD,3.94,176902,3,Inactive,56
+Saturday,16-11-2024,14:09.51,Google Drive,2.06,578891,1,Active,15
+Saturday,16-11-2024,09:54.16,OBS Studio,3.55,689410,1,Inactive,39
+Saturday,16-11-2024,16:29.02,PowerPoint,4.98,344947,3,Active,17
+Saturday,16-11-2024,11:17.07,Eclipse,3.19,210180,4,Active,11
+Saturday,16-11-2024,20:13.15,Outlook,0.55,641228,1,Inactive,20
+Saturday,16-11-2024,18:30.24,MATLAB,1.74,432704,1,Inactive,53
+Sunday,17-11-2024,16:38.28,Zoom,1.91,582355,2,Inactive,11
+Sunday,17-11-2024,22:03.17,Edge,0.57,474756,4,Active,37
+Sunday,17-11-2024,23:42.40,Spotify,2.56,507155,3,Inactive,22
+Sunday,17-11-2024,10:52.56,Edge,4.61,225983,3,Inactive,40
+Sunday,17-11-2024,12:56.20,YouTube,1.5,172285,2,Active,25
+Sunday,17-11-2024,12:53.34,Excel,4.61,692011,2,Active,22
+Sunday,17-11-2024,17:38.43,Xcode,4.5,242750,4,Inactive,17
+Sunday,17-11-2024,22:55.43,IntelliJ IDEA,0.82,462282,4,Active,15
+Sunday,17-11-2024,13:06.24,Adobe Photoshop,0.84,259919,1,Inactive,19
+Sunday,17-11-2024,20:19.43,Google Drive,1.13,659174,2,Inactive,23
+Sunday,17-11-2024,16:21.48,Google Drive,2.57,683219,2,Active,19
+Sunday,17-11-2024,11:18.43,Adobe Illustrator,4.76,329428,1,Active,16
+Sunday,17-11-2024,16:15.13,Slack,2.22,585563,1,Inactive,48
+Sunday,17-11-2024,14:31.39,Discord,3.48,173367,2,Inactive,18
+Sunday,17-11-2024,08:00.58,Visual Studio,4.48,555067,2,Active,14
+Sunday,17-11-2024,09:53.44,Jira,0.39,509360,1,Active,26
+Sunday,17-11-2024,13:45.24,IntelliJ IDEA,1.99,390932,2,Active,34
+Sunday,17-11-2024,12:00.51,OBS Studio,2.35,281139,1,Active,60
+Sunday,17-11-2024,10:17.55,GitHub Desktop,3.65,180678,1,Active,32
+Sunday,17-11-2024,19:18.18,Chrome,0.35,428758,1,Inactive,58
+Sunday,17-11-2024,23:38.08,VSCode,0.56,342989,4,Inactive,12
+Sunday,17-11-2024,23:37.28,YouTube,2.78,656045,3,Active,34
+Sunday,17-11-2024,08:58.00,GitHub Desktop,4.12,568313,2,Active,48
+Sunday,17-11-2024,08:46.03,IntelliJ IDEA,1.77,227390,2,Inactive,20
+Sunday,17-11-2024,12:32.14,Slack,1.15,257649,1,Active,34
+Sunday,17-11-2024,23:37.38,Zoom,1.54,376951,1,Active,19
+Sunday,17-11-2024,14:47.21,Word,1.81,633089,2,Active,54
+Sunday,17-11-2024,20:37.34,Android Studio,3.13,568248,2,Inactive,59
+Sunday,17-11-2024,22:04.20,Google Drive,1.23,312732,2,Active,13
+Sunday,17-11-2024,20:34.51,Outlook,4.82,536544,2,Active,60
+Sunday,17-11-2024,17:47.11,Android Studio,1.76,527942,3,Inactive,14
+Sunday,17-11-2024,12:28.15,IntelliJ IDEA,2.52,284531,1,Inactive,43
+Sunday,17-11-2024,23:34.47,Blender,3.51,514384,1,Inactive,45
+Sunday,17-11-2024,14:30.57,Google Drive,3.63,410286,2,Inactive,28
+Sunday,17-11-2024,08:03.34,Firefox,2.92,222506,2,Inactive,13
+Sunday,17-11-2024,16:08.57,Excel,4.58,632324,4,Inactive,55
+Sunday,17-11-2024,19:18.44,Edge,3.7,632455,2,Active,22
+Sunday,17-11-2024,10:37.08,Excel,2.85,270996,4,Inactive,21
+Sunday,17-11-2024,18:27.48,Xcode,1.8,142071,1,Inactive,58
+Sunday,17-11-2024,00:45.57,Teams,1.88,348535,2,Active,28
+Sunday,17-11-2024,09:03.49,Netflix,2.63,144961,1,Active,11
+Sunday,17-11-2024,07:01.54,MATLAB,4.87,276364,2,Active,51
+Sunday,17-11-2024,14:41.56,Visual Studio,0.49,485719,2,Active,25
+Sunday,17-11-2024,00:16.59,Excel,3.23,379492,4,Active,52
+Sunday,17-11-2024,21:16.03,Discord,4.95,694263,1,Inactive,10
+Sunday,17-11-2024,17:21.37,Spotify,4.03,342568,1,Active,53
+Sunday,17-11-2024,17:17.43,Teams,0.71,338176,1,Active,26
+Sunday,17-11-2024,20:40.39,Spotify,1.4,348733,1,Active,11
+Sunday,17-11-2024,15:47.31,Opera,2.47,673580,3,Active,57
+Sunday,17-11-2024,20:41.22,VSCode,0.53,258146,2,Active,10
+Sunday,17-11-2024,00:49.39,Android Studio,4.72,372288,1,Inactive,19
+Sunday,17-11-2024,00:10.01,Opera,2.36,471710,3,Inactive,58
+Sunday,17-11-2024,08:53.36,Edge,1.49,264593,1,Inactive,17
+Sunday,17-11-2024,07:52.32,Xcode,2.05,581790,2,Active,54
+Sunday,17-11-2024,10:10.14,Visual Studio,1.87,460420,3,Active,18
+Sunday,17-11-2024,22:41.02,Blender,3.52,695124,4,Active,11
+Sunday,17-11-2024,15:41.42,Firefox,3.43,378698,4,Inactive,38
+Sunday,17-11-2024,07:58.31,WhatsApp,2.59,666659,1,Inactive,44
+Sunday,17-11-2024,12:11.11,WhatsApp,0.83,172810,1,Active,38
+Sunday,17-11-2024,09:59.33,Unity,0.41,168925,1,Active,35
+Sunday,17-11-2024,18:32.11,MATLAB,0.87,443900,1,Active,18
+Sunday,17-11-2024,09:54.15,Unity,0.87,687767,1,Active,55
+Sunday,17-11-2024,00:14.13,Unity,1.92,196936,3,Active,60
+Sunday,17-11-2024,21:56.14,Visual Studio,3.51,192619,1,Active,57
+Sunday,17-11-2024,10:08.51,WhatsApp,2.56,679679,1,Inactive,21
+Sunday,17-11-2024,19:47.16,GitHub Desktop,4.37,322803,2,Inactive,42
+Sunday,17-11-2024,21:56.26,OneNote,1.92,172656,2,Inactive,52
+Sunday,17-11-2024,07:33.11,Xcode,1.49,696436,2,Active,39
+Sunday,17-11-2024,11:48.59,Jira,1.49,273179,3,Inactive,13
+Sunday,17-11-2024,18:54.52,OneNote,2.89,546222,4,Inactive,41
+Sunday,17-11-2024,10:01.04,Zoom,2.44,605463,2,Inactive,60
+Sunday,17-11-2024,00:25.08,Xcode,0.86,583284,4,Active,44
+Sunday,17-11-2024,16:09.56,Firefox,4.74,628536,4,Active,39
+Sunday,17-11-2024,07:27.20,Steam,0.9,569405,1,Inactive,52
+Sunday,17-11-2024,00:34.04,Discord,4.04,476775,4,Inactive,26
+Sunday,17-11-2024,20:28.41,Microsoft Store,1.79,397666,1,Active,49
+Sunday,17-11-2024,20:25.10,MATLAB,1.04,536857,2,Inactive,49
+Sunday,17-11-2024,14:29.40,Unity,1.74,557361,1,Active,13
+Sunday,17-11-2024,12:26.21,Microsoft Store,1.33,284268,2,Active,45
+Sunday,17-11-2024,21:12.51,Skype,4.76,241396,1,Inactive,25
+Sunday,17-11-2024,19:16.15,Steam,3.68,262257,1,Active,15
+Sunday,17-11-2024,10:01.04,Excel,3.36,118183,4,Active,24
+Sunday,17-11-2024,00:36.14,IntelliJ IDEA,1.78,342694,1,Active,35
+Sunday,17-11-2024,21:06.40,VSCode,4.54,515134,1,Inactive,35
+Monday,18-11-2024,16:13.25,Android Studio,1.57,532762,4,Inactive,58
+Monday,18-11-2024,23:50.38,YouTube,1.35,405455,3,Active,18
+Monday,18-11-2024,08:54.07,Notion,1.01,368883,1,Active,57
+Monday,18-11-2024,08:50.42,Discord,2.22,161191,2,Active,56
+Monday,18-11-2024,08:55.49,Xcode,0.48,135567,2,Active,18
+Monday,18-11-2024,13:01.44,Jira,2.9,597448,1,Active,46
+Monday,18-11-2024,21:27.39,OneNote,2.29,258025,1,Inactive,36
+Monday,18-11-2024,08:23.09,Netflix,1.79,111094,1,Inactive,10
+Monday,18-11-2024,18:37.45,Unity,4.76,278473,1,Active,50
+Monday,18-11-2024,11:12.18,Discord,4.55,165276,1,Inactive,50
+Monday,18-11-2024,10:13.17,Steam,3.53,557299,1,Inactive,47
+Monday,18-11-2024,22:53.09,Netflix,2.95,239078,1,Active,51
+Monday,18-11-2024,13:55.31,Jira,2.68,693790,2,Active,17
+Monday,18-11-2024,14:29.13,Google Drive,1.38,316242,2,Active,10
+Monday,18-11-2024,10:47.06,Netflix,1.02,411046,2,Inactive,31
+Monday,18-11-2024,19:11.05,GitHub Desktop,1.7,272986,1,Inactive,51
+Monday,18-11-2024,17:52.59,Skype,1.73,575757,4,Inactive,16
+Monday,18-11-2024,22:07.52,Microsoft Store,3.26,290033,1,Inactive,13
+Monday,18-11-2024,15:52.15,Notion,2.83,657274,1,Inactive,32
+Monday,18-11-2024,07:38.15,GitHub Desktop,2.45,582989,2,Inactive,29
+Monday,18-11-2024,20:09.06,Postman,1.63,379683,1,Inactive,50
+Monday,18-11-2024,08:05.34,Google Drive,0.59,666057,1,Inactive,31
+Monday,18-11-2024,08:09.31,Trello,0.75,583140,1,Inactive,39
+Monday,18-11-2024,20:34.00,PowerPoint,2.14,508331,2,Active,13
+Monday,18-11-2024,14:45.06,Teams,3.42,172010,1,Active,55
+Monday,18-11-2024,15:05.36,GitHub Desktop,3.56,507655,1,Active,57
+Monday,18-11-2024,14:49.50,VSCode,3.35,478069,1,Inactive,15
+Monday,18-11-2024,09:48.39,IntelliJ IDEA,0.41,675714,2,Inactive,21
+Monday,18-11-2024,23:45.23,Telegram,1.5,629015,1,Inactive,44
+Monday,18-11-2024,20:07.22,Jira,1.52,420190,1,Active,58
+Monday,18-11-2024,21:47.00,MATLAB,1.2,389238,1,Inactive,47
+Monday,18-11-2024,21:32.30,Eclipse,0.79,410875,2,Inactive,40
+Monday,18-11-2024,20:43.55,GitHub Desktop,3.38,377385,1,Active,50
+Monday,18-11-2024,00:01.42,Blender,2.68,223721,3,Active,12
+Monday,18-11-2024,11:25.15,Opera,1.48,157181,1,Active,12
+Monday,18-11-2024,00:58.37,Google Drive,4.15,685751,4,Inactive,10
+Monday,18-11-2024,12:09.43,Jira,2.57,288823,1,Inactive,26
+Monday,18-11-2024,10:06.22,Steam,3.75,600539,4,Active,25
+Monday,18-11-2024,12:47.39,Jira,4.16,158296,2,Inactive,49
+Monday,18-11-2024,11:23.57,Google Drive,2.55,639988,4,Inactive,18
+Monday,18-11-2024,12:07.02,Jira,3.43,599649,1,Active,45
+Monday,18-11-2024,18:19.47,OBS Studio,3.36,421338,4,Inactive,32
+Monday,18-11-2024,19:20.33,Visual Studio,2.15,449619,1,Active,22
+Monday,18-11-2024,12:14.44,Notion,1.77,265339,2,Inactive,30
+Monday,18-11-2024,20:57.16,GitHub Desktop,2.78,663828,1,Inactive,35
+Monday,18-11-2024,12:04.53,Spotify,2.2,477645,1,Active,49
+Monday,18-11-2024,07:02.23,YouTube,3.31,677432,1,Inactive,29
+Monday,18-11-2024,09:19.27,Firefox,0.64,347068,1,Inactive,55
+Monday,18-11-2024,13:35.53,WhatsApp,2.28,515396,1,Active,36
+Monday,18-11-2024,20:52.14,AutoCAD,0.85,355892,1,Inactive,52
+Monday,18-11-2024,11:05.55,Edge,1.61,152912,3,Active,47
+Monday,18-11-2024,14:57.17,Outlook,2.4,544321,1,Inactive,39
+Monday,18-11-2024,22:44.30,WhatsApp,1.78,234771,4,Active,19
+Monday,18-11-2024,13:40.55,Slack,1.93,133378,2,Inactive,40
+Monday,18-11-2024,18:04.13,Zoom,0.85,341715,4,Inactive,44
+Monday,18-11-2024,08:25.27,Microsoft Store,1.18,310614,2,Inactive,29
+Monday,18-11-2024,20:54.56,Spotify,4.69,285596,1,Inactive,24
+Monday,18-11-2024,07:57.00,Visual Studio,4.56,410896,1,Active,42
+Monday,18-11-2024,08:37.59,Eclipse,0.38,479946,2,Active,40
+Monday,18-11-2024,19:33.57,Excel,0.79,297581,1,Inactive,51
+Monday,18-11-2024,10:54.38,VSCode,0.69,318189,4,Active,18
+Monday,18-11-2024,10:47.29,OBS Studio,2.22,690615,2,Active,51
+Monday,18-11-2024,18:35.09,Discord,1.91,682350,2,Inactive,15
+Monday,18-11-2024,12:08.20,IntelliJ IDEA,1.22,652842,1,Active,43
+Monday,18-11-2024,08:07.32,Adobe Illustrator,2.76,256941,1,Active,11
+Monday,18-11-2024,16:26.04,AutoCAD,0.48,274440,1,Active,49
+Monday,18-11-2024,15:06.04,Visual Studio,1.15,164983,1,Active,48
+Monday,18-11-2024,20:26.30,Excel,1.3,647902,1,Inactive,21
+Monday,18-11-2024,11:34.57,Teams,3.19,688161,1,Active,27
+Monday,18-11-2024,22:10.24,IntelliJ IDEA,0.47,454773,3,Active,60
+Monday,18-11-2024,21:14.15,Chrome,4.39,103794,2,Active,13
+Monday,18-11-2024,14:26.37,Discord,1.02,128906,2,Inactive,11
+Monday,18-11-2024,17:11.39,Adobe Photoshop,3.22,639865,2,Active,54
+Monday,18-11-2024,15:26.22,OBS Studio,4.52,670534,4,Active,37
+Monday,18-11-2024,12:05.16,Slack,3.29,478693,2,Active,46
+Monday,18-11-2024,09:47.40,IntelliJ IDEA,3.14,135476,1,Active,49
+Monday,18-11-2024,16:20.57,IntelliJ IDEA,4.52,293168,4,Active,58
+Monday,18-11-2024,21:11.02,Telegram,0.69,649978,2,Inactive,35
+Monday,18-11-2024,20:03.12,Notion,2.48,260226,2,Active,10
+Monday,18-11-2024,13:42.26,Jira,1.38,219806,2,Active,43
+Monday,18-11-2024,15:50.56,WhatsApp,3.99,168116,3,Active,28
+Monday,18-11-2024,14:16.28,Microsoft Store,4.86,263318,2,Inactive,16
+Monday,18-11-2024,10:00.13,Adobe Photoshop,4.95,169334,4,Inactive,31
+Tuesday,19-11-2024,23:22.56,Adobe Photoshop,1.36,634313,3,Inactive,21
+Tuesday,19-11-2024,17:11.25,Figma,4.65,164643,3,Active,46
+Tuesday,19-11-2024,11:14.26,Telegram,0.58,272939,3,Active,38
+Tuesday,19-11-2024,00:22.17,Skype,1.39,449271,2,Inactive,53
+Tuesday,19-11-2024,00:33.52,Blender,3.71,664530,2,Active,49
+Tuesday,19-11-2024,10:21.13,Slack,4.35,312584,1,Active,27
+Tuesday,19-11-2024,08:23.45,AutoCAD,0.46,474921,2,Active,35
+Tuesday,19-11-2024,00:11.11,Unity,1.04,392799,3,Active,11
+Tuesday,19-11-2024,21:42.43,Android Studio,1.37,438683,1,Active,60
+Tuesday,19-11-2024,18:01.07,Teams,3.51,571058,4,Active,45
+Tuesday,19-11-2024,07:20.58,PowerPoint,2.34,235935,2,Active,35
+Tuesday,19-11-2024,22:25.12,Chrome,0.67,511809,3,Active,28
+Tuesday,19-11-2024,13:39.39,YouTube,1.62,548960,1,Active,32
+Tuesday,19-11-2024,09:55.46,Chrome,4.77,696860,2,Active,12
+Tuesday,19-11-2024,21:38.51,Spotify,0.98,186689,2,Inactive,60
+Tuesday,19-11-2024,13:51.01,MATLAB,1.8,375058,2,Inactive,54
+Tuesday,19-11-2024,14:11.53,Visual Studio,2.62,183730,1,Active,58
+Tuesday,19-11-2024,23:17.48,GitHub Desktop,1.48,458267,1,Active,34
+Tuesday,19-11-2024,18:51.17,Firefox,2.01,507271,3,Inactive,32
+Tuesday,19-11-2024,07:06.01,AutoCAD,4.18,347920,1,Inactive,60
+Tuesday,19-11-2024,22:44.34,Postman,4.37,279286,3,Active,25
+Tuesday,19-11-2024,20:12.45,Android Studio,3.62,612852,1,Inactive,21
+Tuesday,19-11-2024,17:27.24,Steam,0.6,655802,4,Inactive,17
+Tuesday,19-11-2024,07:19.53,Spotify,2.33,148278,2,Inactive,57
+Tuesday,19-11-2024,20:26.42,Netflix,4.18,575065,1,Active,39
+Tuesday,19-11-2024,11:53.51,Eclipse,2.41,408543,3,Active,54
+Tuesday,19-11-2024,10:28.03,Postman,2.98,343121,2,Inactive,34
+Tuesday,19-11-2024,07:16.58,PowerPoint,3.48,175370,2,Active,30
+Tuesday,19-11-2024,00:42.39,Eclipse,0.49,104620,4,Inactive,22
+Tuesday,19-11-2024,19:19.25,Jira,4.62,550126,2,Inactive,36
+Tuesday,19-11-2024,18:37.30,Notion,1.32,699818,3,Active,49
+Tuesday,19-11-2024,17:53.27,Notion,1.91,684886,3,Active,12
+Tuesday,19-11-2024,20:44.30,Chrome,3.62,108461,1,Active,24
+Tuesday,19-11-2024,20:03.18,VSCode,3.84,621747,1,Active,56
+Tuesday,19-11-2024,16:22.14,Notion,0.41,294005,2,Active,36
+Tuesday,19-11-2024,12:24.39,Netflix,0.64,334474,2,Inactive,37
+Tuesday,19-11-2024,11:17.16,Opera,3.38,452047,4,Active,49
+Tuesday,19-11-2024,09:46.50,Notion,3.24,373138,1,Active,45
+Tuesday,19-11-2024,16:44.43,WhatsApp,3.55,132250,3,Active,46
+Tuesday,19-11-2024,17:20.30,Firefox,1.71,438758,4,Inactive,36
+Tuesday,19-11-2024,15:41.17,Skype,3.92,680867,2,Active,55
+Tuesday,19-11-2024,17:11.09,Netflix,0.93,557675,2,Inactive,25
+Tuesday,19-11-2024,08:59.05,Word,2.03,652204,2,Active,39
+Tuesday,19-11-2024,18:12.05,Jira,2.81,106006,3,Inactive,36
+Tuesday,19-11-2024,13:59.34,Postman,4.09,615523,2,Inactive,35
+Tuesday,19-11-2024,11:12.16,Google Drive,1.77,585942,3,Inactive,47
+Tuesday,19-11-2024,23:41.38,Firefox,1.21,511794,3,Inactive,41
+Tuesday,19-11-2024,12:48.13,MATLAB,4.08,697313,1,Active,22
+Tuesday,19-11-2024,21:31.14,Steam,1.42,580459,2,Inactive,38
+Tuesday,19-11-2024,23:28.55,Discord,3.15,527249,4,Inactive,38
+Tuesday,19-11-2024,19:01.30,VSCode,1.18,110911,1,Active,56
+Tuesday,19-11-2024,13:39.37,Trello,3.43,103091,2,Active,31
+Tuesday,19-11-2024,19:30.22,Opera,0.68,182807,2,Inactive,60
+Tuesday,19-11-2024,08:51.46,Trello,3.55,146415,1,Active,35
+Tuesday,19-11-2024,10:19.24,IntelliJ IDEA,4.35,566028,1,Inactive,47
+Tuesday,19-11-2024,16:07.40,Chrome,4.65,436352,3,Inactive,13
+Tuesday,19-11-2024,11:01.29,Teams,1.47,478677,2,Active,51
+Tuesday,19-11-2024,20:03.58,OneNote,1.08,290523,1,Active,48
+Tuesday,19-11-2024,07:23.21,Word,3.17,590647,2,Active,31
+Tuesday,19-11-2024,13:20.25,Spotify,3.07,403782,2,Inactive,36
+Tuesday,19-11-2024,10:31.42,YouTube,2.45,634009,4,Inactive,48
+Tuesday,19-11-2024,15:49.29,Trello,4.57,602454,2,Inactive,27
+Wednesday,20-11-2024,10:00.37,WhatsApp,4.33,552223,1,Inactive,44
+Wednesday,20-11-2024,19:32.27,WhatsApp,3.51,583061,2,Active,21
+Wednesday,20-11-2024,22:43.32,OBS Studio,2.55,225380,2,Inactive,49
+Wednesday,20-11-2024,11:39.00,Word,0.38,479634,2,Active,12
+Wednesday,20-11-2024,12:47.10,Visual Studio,3.32,507509,1,Inactive,20
+Wednesday,20-11-2024,12:27.02,Eclipse,2.15,638576,2,Inactive,49
+Wednesday,20-11-2024,11:07.35,Spotify,2.07,552273,4,Inactive,53
+Wednesday,20-11-2024,17:09.54,AutoCAD,2.75,442685,4,Active,41
+Wednesday,20-11-2024,00:12.47,VSCode,1.63,518863,3,Active,18
+Wednesday,20-11-2024,15:47.22,WhatsApp,3.44,587927,2,Active,53
+Wednesday,20-11-2024,16:24.11,YouTube,2.27,602389,1,Inactive,26
+Wednesday,20-11-2024,11:03.03,Xcode,4.72,628204,3,Active,41
+Wednesday,20-11-2024,10:20.02,Excel,3.37,314390,2,Active,13
+Wednesday,20-11-2024,23:57.06,OneNote,0.41,469843,4,Inactive,28
+Wednesday,20-11-2024,18:43.55,Netflix,3.8,201350,1,Inactive,40
+Wednesday,20-11-2024,13:16.49,Notion,4.29,238565,2,Inactive,49
+Wednesday,20-11-2024,22:29.20,Microsoft Store,0.95,331957,3,Active,49
+Wednesday,20-11-2024,20:47.02,Firefox,2.17,660597,1,Inactive,42
+Wednesday,20-11-2024,22:08.50,Discord,0.39,679092,4,Inactive,56
+Wednesday,20-11-2024,09:50.40,Firefox,4.7,157815,1,Active,38
+Wednesday,20-11-2024,17:15.24,Postman,3.98,465611,3,Inactive,44
+Wednesday,20-11-2024,12:51.45,Eclipse,3.54,558618,2,Active,40
+Wednesday,20-11-2024,08:35.09,Android Studio,2.2,426985,1,Inactive,28
+Wednesday,20-11-2024,07:42.43,Steam,1.25,617390,2,Active,40
+Wednesday,20-11-2024,17:53.56,Spotify,0.9,252108,3,Active,37
+Wednesday,20-11-2024,09:29.08,Steam,1.71,173409,2,Inactive,38
+Wednesday,20-11-2024,07:57.59,Android Studio,3.89,321599,1,Inactive,10
+Wednesday,20-11-2024,11:48.54,VSCode,0.94,648316,1,Active,14
+Wednesday,20-11-2024,09:01.11,Firefox,3.87,569857,1,Active,39
+Wednesday,20-11-2024,09:48.33,Zoom,2.26,110486,1,Inactive,43
+Wednesday,20-11-2024,14:32.29,Google Drive,3.68,360754,1,Active,32
+Wednesday,20-11-2024,08:06.46,Jira,2.94,651468,2,Inactive,24
+Wednesday,20-11-2024,12:59.06,Adobe Illustrator,1.95,692014,2,Inactive,15
+Wednesday,20-11-2024,23:59.23,MATLAB,1.71,159201,3,Inactive,21
+Wednesday,20-11-2024,18:23.23,Figma,2.76,322548,1,Inactive,44
+Wednesday,20-11-2024,07:25.57,IntelliJ IDEA,4.46,602472,2,Inactive,53
+Wednesday,20-11-2024,18:35.48,Skype,3.77,400336,3,Active,47
+Wednesday,20-11-2024,21:08.26,Telegram,4.18,581266,2,Active,34
+Wednesday,20-11-2024,07:23.47,AutoCAD,0.31,506096,1,Active,42
+Wednesday,20-11-2024,11:07.01,Spotify,4.28,277051,2,Inactive,23
+Wednesday,20-11-2024,14:35.17,Postman,3.81,119359,2,Inactive,28
+Wednesday,20-11-2024,12:55.29,GitHub Desktop,0.63,684534,2,Active,42
+Wednesday,20-11-2024,16:47.19,IntelliJ IDEA,2.25,277809,4,Active,50
+Wednesday,20-11-2024,23:45.58,Netflix,2.35,419473,1,Inactive,58
+Wednesday,20-11-2024,11:20.13,Discord,3.02,679308,3,Inactive,47
+Wednesday,20-11-2024,16:02.22,Notion,1.55,472764,3,Inactive,41
+Wednesday,20-11-2024,14:55.15,Google Drive,4.56,549897,2,Inactive,18
+Wednesday,20-11-2024,21:01.52,MATLAB,2.57,209757,1,Inactive,36
+Wednesday,20-11-2024,21:35.22,Jira,1.89,422987,2,Active,33
+Wednesday,20-11-2024,18:24.10,GitHub Desktop,4.67,140746,2,Inactive,36
+Wednesday,20-11-2024,21:08.19,GitHub Desktop,2.16,478692,2,Active,27
+Wednesday,20-11-2024,10:38.52,VSCode,2.56,421436,4,Inactive,25
+Wednesday,20-11-2024,00:42.17,Excel,2.35,559670,3,Inactive,50
+Wednesday,20-11-2024,15:22.44,IntelliJ IDEA,1.31,395362,1,Active,51
+Wednesday,20-11-2024,23:04.33,Firefox,1.42,644221,3,Inactive,46
+Wednesday,20-11-2024,08:29.49,Excel,4.04,351730,2,Inactive,26
+Wednesday,20-11-2024,16:31.01,Opera,3.03,146893,3,Inactive,26
+Wednesday,20-11-2024,07:29.24,Jira,3.25,696317,1,Inactive,37
+Wednesday,20-11-2024,12:27.11,AutoCAD,3.35,326071,1,Inactive,27
+Wednesday,20-11-2024,07:43.45,Firefox,3.47,347068,2,Inactive,44
+Wednesday,20-11-2024,17:39.50,WhatsApp,4.64,607439,2,Active,19
+Wednesday,20-11-2024,16:32.17,Postman,1.14,417142,2,Active,58
+Wednesday,20-11-2024,17:24.09,Eclipse,3.21,374919,3,Active,55
+Wednesday,20-11-2024,22:42.06,Slack,1.66,431994,4,Active,16
+Wednesday,20-11-2024,14:32.43,Visual Studio,3.13,530120,2,Inactive,27
+Wednesday,20-11-2024,12:16.54,Zoom,1.08,326229,2,Active,47
+Wednesday,20-11-2024,19:33.03,AutoCAD,4.04,237940,2,Inactive,36
+Wednesday,20-11-2024,10:33.44,OneNote,0.71,291538,2,Inactive,30
+Wednesday,20-11-2024,14:54.33,Discord,0.78,280305,2,Active,49
+Wednesday,20-11-2024,18:40.06,PowerPoint,2.53,464795,2,Inactive,25
+Wednesday,20-11-2024,09:09.17,Steam,0.48,598798,1,Inactive,21
+Wednesday,20-11-2024,17:15.35,Word,0.76,303387,4,Inactive,42
+Wednesday,20-11-2024,00:15.52,Google Drive,3.88,253108,2,Active,45
+Wednesday,20-11-2024,08:07.22,Android Studio,1.08,162073,1,Active,55
+Wednesday,20-11-2024,20:55.55,Spotify,3.46,425629,1,Active,16
+Wednesday,20-11-2024,07:52.05,OBS Studio,4.6,655155,1,Inactive,54
+Thursday,21-11-2024,21:52.55,Opera,3.15,257658,1,Active,59
+Thursday,21-11-2024,12:40.15,Trello,2.99,553281,1,Inactive,44
+Thursday,21-11-2024,09:18.36,Opera,1.69,335767,1,Active,36
+Thursday,21-11-2024,13:08.39,Visual Studio,4.89,229458,1,Active,28
+Thursday,21-11-2024,15:35.23,Microsoft Store,0.92,614501,3,Active,10
+Thursday,21-11-2024,00:10.48,Xcode,4.83,338905,3,Inactive,12
+Thursday,21-11-2024,16:48.53,Teams,2.63,159194,1,Active,10
+Thursday,21-11-2024,16:52.37,Android Studio,0.79,490046,4,Active,44
+Thursday,21-11-2024,16:00.33,Google Drive,0.89,651694,4,Active,42
+Thursday,21-11-2024,14:57.24,Google Drive,4.57,113347,1,Inactive,49
+Thursday,21-11-2024,17:30.16,Trello,2.53,191948,3,Inactive,41
+Thursday,21-11-2024,23:25.23,Discord,4.3,531374,1,Active,12
+Thursday,21-11-2024,21:56.13,Steam,3.21,338500,2,Active,12
+Thursday,21-11-2024,09:55.49,Postman,3.28,241928,2,Inactive,60
+Thursday,21-11-2024,13:46.06,Word,1.21,521757,2,Active,51
+Thursday,21-11-2024,22:10.44,Xcode,4.23,222718,4,Inactive,29
+Thursday,21-11-2024,23:39.32,Word,3.86,223168,1,Inactive,30
+Thursday,21-11-2024,18:40.51,Unity,4.88,159301,4,Inactive,45
+Thursday,21-11-2024,20:06.32,WhatsApp,3.7,252828,2,Inactive,30
+Thursday,21-11-2024,10:07.58,OBS Studio,1.07,314586,3,Inactive,22
+Thursday,21-11-2024,16:38.11,Word,1.43,353326,4,Active,48
+Thursday,21-11-2024,22:11.12,PowerPoint,0.96,668032,4,Inactive,42
+Thursday,21-11-2024,07:19.08,AutoCAD,3.11,274723,1,Inactive,14
+Thursday,21-11-2024,17:57.28,MATLAB,1.75,633417,3,Inactive,54
+Thursday,21-11-2024,12:29.09,Postman,1.68,317267,2,Inactive,39
+Thursday,21-11-2024,23:14.39,Zoom,3.55,376656,1,Inactive,28
+Thursday,21-11-2024,17:37.50,Steam,3.07,443914,4,Active,10
+Thursday,21-11-2024,00:44.37,Xcode,2.39,536008,2,Active,46
+Thursday,21-11-2024,11:14.28,AutoCAD,2.18,646274,1,Inactive,26
+Thursday,21-11-2024,17:26.53,Adobe Photoshop,0.92,270718,1,Active,29
+Thursday,21-11-2024,13:15.48,OneNote,4.51,507553,1,Active,12
+Thursday,21-11-2024,20:45.18,Visual Studio,0.62,106174,2,Active,22
+Thursday,21-11-2024,08:53.31,Teams,2.92,495225,2,Active,50
+Thursday,21-11-2024,14:26.00,Visual Studio,1.51,171353,1,Active,13
+Thursday,21-11-2024,18:20.54,Jira,3.61,649372,1,Inactive,32
+Thursday,21-11-2024,19:52.32,Outlook,0.62,396042,2,Inactive,24
+Thursday,21-11-2024,07:17.48,Android Studio,4.91,666998,2,Active,17
+Thursday,21-11-2024,19:59.10,Trello,0.67,399563,2,Inactive,59
+Thursday,21-11-2024,15:26.22,Google Drive,2.81,112124,2,Inactive,24
+Thursday,21-11-2024,21:10.24,IntelliJ IDEA,2.89,337739,1,Inactive,60
+Thursday,21-11-2024,08:40.26,Slack,4.2,376341,1,Active,13
+Thursday,21-11-2024,12:48.56,Skype,2.61,313729,1,Inactive,41
+Thursday,21-11-2024,20:31.32,Visual Studio,3.57,100485,2,Active,35
+Thursday,21-11-2024,16:58.14,MATLAB,3.45,488218,1,Active,18
+Thursday,21-11-2024,08:46.20,Zoom,3.79,684967,2,Active,56
+Thursday,21-11-2024,23:48.10,GitHub Desktop,2.47,398190,2,Inactive,14
+Thursday,21-11-2024,14:38.19,Adobe Photoshop,4.05,462346,1,Inactive,43
+Thursday,21-11-2024,12:51.01,Teams,1.03,462052,2,Inactive,37
+Thursday,21-11-2024,09:11.04,Steam,1.66,299715,2,Active,57
+Thursday,21-11-2024,13:27.47,Teams,4.98,277844,2,Active,54
+Thursday,21-11-2024,09:43.34,Unity,3.84,665647,2,Active,34
+Thursday,21-11-2024,16:49.57,IntelliJ IDEA,4.55,603480,4,Inactive,38
+Thursday,21-11-2024,12:40.54,Netflix,4.19,266718,1,Inactive,53
+Thursday,21-11-2024,00:19.41,Slack,3.14,649446,4,Inactive,21
+Thursday,21-11-2024,08:42.57,Excel,2.75,403387,2,Active,26
+Thursday,21-11-2024,20:11.18,Jira,4.35,448488,1,Active,42
+Thursday,21-11-2024,10:54.01,Edge,1.97,690573,2,Inactive,35
+Thursday,21-11-2024,13:16.50,GitHub Desktop,0.5,640567,1,Active,27
+Thursday,21-11-2024,18:56.54,Discord,2.11,589444,1,Active,43
+Thursday,21-11-2024,18:23.37,Telegram,1.34,459048,1,Active,54
+Thursday,21-11-2024,10:46.10,Notion,2.96,513391,1,Active,16
+Thursday,21-11-2024,12:39.58,Trello,2.51,343498,1,Active,46
+Thursday,21-11-2024,20:21.30,Telegram,3.24,106906,2,Inactive,12
+Thursday,21-11-2024,10:31.58,Skype,4.42,577577,2,Active,21
+Thursday,21-11-2024,21:35.08,Chrome,1.44,150126,2,Active,37
+Thursday,21-11-2024,07:23.04,Outlook,3.27,369136,2,Inactive,48
+Friday,22-11-2024,12:27.26,OBS Studio,4.09,531655,2,Active,54
+Friday,22-11-2024,23:31.45,Steam,1.25,442068,2,Active,58
+Friday,22-11-2024,13:18.53,Visual Studio,4.06,285498,2,Active,12
+Friday,22-11-2024,00:45.29,VSCode,1.66,194099,1,Inactive,39
+Friday,22-11-2024,11:02.24,Figma,4.32,571872,3,Active,43
+Friday,22-11-2024,13:49.47,OBS Studio,2.93,569022,2,Inactive,57
+Friday,22-11-2024,08:59.15,Blender,4.41,397842,2,Inactive,28
+Friday,22-11-2024,21:33.26,Spotify,3.79,457744,2,Inactive,14
+Friday,22-11-2024,22:10.36,Microsoft Store,4.54,557901,2,Active,26
+Friday,22-11-2024,00:43.21,Xcode,0.43,396565,1,Active,57
+Friday,22-11-2024,19:55.38,Edge,2.1,674377,1,Active,11
+Friday,22-11-2024,09:48.35,OBS Studio,3.45,310011,2,Inactive,12
+Friday,22-11-2024,08:33.51,Chrome,4.29,150836,1,Inactive,37
+Friday,22-11-2024,11:23.11,OneNote,1.8,399595,3,Inactive,53
+Friday,22-11-2024,00:37.47,Opera,2.54,171399,4,Inactive,49
+Friday,22-11-2024,09:45.42,Word,0.93,135690,2,Inactive,20
+Friday,22-11-2024,08:52.14,Eclipse,0.96,656595,2,Active,36
+Friday,22-11-2024,19:39.01,VSCode,4.15,174809,2,Inactive,37
+Friday,22-11-2024,10:42.00,Firefox,0.36,142904,1,Inactive,28
+Friday,22-11-2024,14:39.08,VSCode,3.94,296385,1,Active,56
+Friday,22-11-2024,08:04.23,Google Drive,2.5,410820,2,Inactive,43
+Friday,22-11-2024,14:04.17,WhatsApp,2.88,681628,2,Active,16
+Friday,22-11-2024,23:19.52,Eclipse,1.94,230500,4,Inactive,24
+Friday,22-11-2024,20:07.50,Word,2.68,135357,2,Inactive,29
+Friday,22-11-2024,16:12.14,Blender,0.72,471161,2,Inactive,11
+Friday,22-11-2024,12:23.53,Adobe Photoshop,0.66,407815,2,Inactive,28
+Friday,22-11-2024,23:04.27,Excel,1.02,435776,1,Inactive,56
+Friday,22-11-2024,21:18.30,Opera,4.93,370056,2,Inactive,24
+Friday,22-11-2024,21:33.51,Adobe Illustrator,2.0,107920,2,Inactive,20
+Friday,22-11-2024,00:04.11,Spotify,2.87,350378,4,Inactive,17
+Friday,22-11-2024,22:52.47,Notion,2.47,453994,1,Inactive,29
+Friday,22-11-2024,20:37.04,Blender,4.69,208178,2,Active,50
+Friday,22-11-2024,18:39.13,Google Drive,1.71,173828,1,Inactive,42
+Friday,22-11-2024,13:33.48,GitHub Desktop,2.3,490780,1,Active,24
+Friday,22-11-2024,22:10.03,Jira,0.89,520431,2,Inactive,30
+Friday,22-11-2024,15:11.23,Spotify,1.37,535466,1,Active,59
+Friday,22-11-2024,11:49.40,Notion,1.17,414371,4,Inactive,60
+Friday,22-11-2024,14:49.56,Microsoft Store,3.34,231308,1,Inactive,35
+Friday,22-11-2024,11:47.19,Discord,1.38,674908,1,Active,34
+Friday,22-11-2024,13:43.44,Opera,2.3,577557,1,Active,15
+Friday,22-11-2024,23:38.50,Outlook,3.43,407106,2,Active,21
+Friday,22-11-2024,21:22.41,Skype,3.79,277528,2,Active,56
+Friday,22-11-2024,07:33.33,Chrome,3.57,410028,2,Active,19
+Friday,22-11-2024,19:34.14,OBS Studio,4.41,190253,2,Inactive,49
+Friday,22-11-2024,13:41.52,Blender,0.5,196721,2,Inactive,59
+Friday,22-11-2024,07:52.02,PowerPoint,2.19,375017,1,Active,32
+Friday,22-11-2024,16:08.42,Telegram,4.21,146148,2,Active,44
+Saturday,23-11-2024,10:30.26,Adobe Photoshop,4.95,162321,4,Inactive,44
+Saturday,23-11-2024,08:17.24,Eclipse,3.31,688017,2,Active,36
+Saturday,23-11-2024,15:18.49,Zoom,4.81,501958,1,Active,27
+Saturday,23-11-2024,20:55.14,Figma,1.22,137616,1,Active,27
+Saturday,23-11-2024,07:33.03,Eclipse,1.37,392593,2,Active,36
+Saturday,23-11-2024,20:16.12,Slack,2.95,322980,1,Active,26
+Saturday,23-11-2024,14:32.19,Adobe Photoshop,1.43,158674,2,Inactive,47
+Saturday,23-11-2024,20:58.13,Jira,1.04,487360,2,Active,16
+Saturday,23-11-2024,17:27.38,Outlook,1.67,651166,3,Active,39
+Saturday,23-11-2024,12:30.25,Adobe Illustrator,0.46,617707,2,Inactive,53
+Saturday,23-11-2024,15:18.31,Adobe Illustrator,0.46,633616,4,Inactive,24
+Saturday,23-11-2024,11:34.18,IntelliJ IDEA,4.43,669241,4,Inactive,29
+Saturday,23-11-2024,18:28.50,Eclipse,3.51,522208,3,Active,11
+Saturday,23-11-2024,08:01.14,Figma,4.63,625783,2,Active,20
+Saturday,23-11-2024,17:43.34,GitHub Desktop,2.56,472758,1,Inactive,60
+Saturday,23-11-2024,17:42.02,Trello,0.96,518721,3,Active,29
+Saturday,23-11-2024,17:07.25,Visual Studio,1.82,628600,2,Active,21
+Saturday,23-11-2024,18:23.20,Excel,4.81,253646,1,Inactive,21
+Saturday,23-11-2024,12:12.52,GitHub Desktop,4.65,303919,1,Inactive,58
+Saturday,23-11-2024,07:28.02,Netflix,4.59,286071,2,Inactive,58
+Saturday,23-11-2024,08:27.52,IntelliJ IDEA,2.6,347985,1,Active,30
+Saturday,23-11-2024,10:36.41,Firefox,2.31,172579,2,Active,51
+Saturday,23-11-2024,17:48.37,Firefox,2.58,147897,1,Active,20
+Saturday,23-11-2024,14:30.19,YouTube,0.6,679887,1,Inactive,36
+Saturday,23-11-2024,08:50.53,AutoCAD,2.01,452346,1,Inactive,41
+Saturday,23-11-2024,13:59.41,Word,4.61,454542,2,Active,53
+Saturday,23-11-2024,19:04.52,Trello,3.74,262889,2,Active,54
+Saturday,23-11-2024,22:30.32,Adobe Photoshop,4.4,320969,2,Inactive,47
+Saturday,23-11-2024,10:41.54,Excel,3.49,140367,1,Inactive,23
+Saturday,23-11-2024,09:02.23,OBS Studio,4.26,182383,2,Inactive,23
+Saturday,23-11-2024,11:28.28,Excel,3.32,274623,3,Active,48
+Saturday,23-11-2024,15:32.47,IntelliJ IDEA,2.62,301496,3,Active,49
+Saturday,23-11-2024,13:49.51,YouTube,4.75,591488,2,Inactive,19
+Saturday,23-11-2024,15:32.57,Visual Studio,1.32,335243,4,Inactive,29
+Saturday,23-11-2024,08:40.18,Teams,3.02,255158,1,Active,44
+Saturday,23-11-2024,15:07.42,Discord,0.91,614343,1,Active,40
+Saturday,23-11-2024,07:53.15,Eclipse,0.82,430254,2,Active,18
+Saturday,23-11-2024,14:03.21,MATLAB,3.25,374960,2,Active,41
+Saturday,23-11-2024,00:10.09,Outlook,3.45,461532,2,Active,26
+Saturday,23-11-2024,10:13.23,Spotify,4.13,466450,2,Inactive,53
+Saturday,23-11-2024,10:55.46,Microsoft Store,4.91,431217,1,Active,55
+Saturday,23-11-2024,18:29.49,OneNote,4.24,584694,3,Active,55
+Saturday,23-11-2024,07:49.12,Google Drive,1.74,297270,2,Inactive,22
+Saturday,23-11-2024,10:52.01,OBS Studio,3.24,189586,2,Inactive,25
+Saturday,23-11-2024,12:04.00,Figma,0.78,143795,1,Inactive,60
+Saturday,23-11-2024,21:39.20,Chrome,4.32,137381,2,Active,17
+Saturday,23-11-2024,22:11.15,Teams,1.75,323247,3,Inactive,32
+Saturday,23-11-2024,19:01.42,Word,4.72,198122,2,Active,49
+Saturday,23-11-2024,09:43.26,Figma,4.81,258734,1,Inactive,36
+Saturday,23-11-2024,13:38.01,Trello,2.89,372657,2,Active,50
+Saturday,23-11-2024,11:24.53,Unity,3.55,232891,2,Active,44
+Saturday,23-11-2024,13:08.11,Blender,4.6,327105,1,Inactive,29
+Saturday,23-11-2024,22:06.12,Teams,2.15,302333,3,Inactive,54
+Saturday,23-11-2024,18:04.37,OBS Studio,2.96,671681,3,Active,53
+Saturday,23-11-2024,09:12.48,Discord,1.07,438912,1,Active,14
+Saturday,23-11-2024,08:45.49,Adobe Photoshop,4.29,139841,1,Inactive,18
+Saturday,23-11-2024,10:03.38,Postman,2.3,435080,3,Active,41
+Saturday,23-11-2024,20:04.17,Spotify,2.81,526534,1,Active,13
+Saturday,23-11-2024,16:09.47,Figma,0.53,661463,2,Inactive,25
+Saturday,23-11-2024,23:46.06,Telegram,1.71,156229,1,Inactive,50
+Saturday,23-11-2024,17:25.23,OneNote,2.79,155747,1,Inactive,29
+Saturday,23-11-2024,17:17.34,Jira,2.1,129478,3,Inactive,20
+Saturday,23-11-2024,19:41.29,Google Drive,3.08,560828,2,Inactive,17
+Saturday,23-11-2024,12:24.52,Trello,4.64,626219,1,Active,33
+Saturday,23-11-2024,20:48.24,Figma,2.71,445623,1,Inactive,42
+Saturday,23-11-2024,13:55.29,MATLAB,4.75,587650,2,Active,17
+Saturday,23-11-2024,07:24.55,Adobe Photoshop,4.72,228518,1,Active,38
+Saturday,23-11-2024,11:40.49,Telegram,1.99,400999,4,Active,22
+Saturday,23-11-2024,18:56.21,Postman,4.78,148153,3,Active,46
+Saturday,23-11-2024,08:39.44,Edge,1.4,419251,2,Inactive,20
+Saturday,23-11-2024,13:07.49,Unity,0.8,163618,2,Inactive,25
+Saturday,23-11-2024,14:32.06,GitHub Desktop,4.97,194599,2,Active,13
+Saturday,23-11-2024,15:04.48,WhatsApp,4.64,190646,3,Inactive,20
+Saturday,23-11-2024,21:32.58,Eclipse,0.3,537312,2,Inactive,45
+Saturday,23-11-2024,08:54.40,Excel,4.34,144684,1,Active,41
+Saturday,23-11-2024,17:41.39,Adobe Illustrator,3.8,488241,4,Active,41
+Saturday,23-11-2024,11:02.49,Jira,4.41,335517,4,Inactive,15
+Saturday,23-11-2024,14:44.07,Opera,3.16,293521,2,Active,15
+Saturday,23-11-2024,21:27.30,Netflix,1.1,266311,1,Active,56
+Saturday,23-11-2024,21:23.37,Blender,3.06,582310,2,Active,52
+Saturday,23-11-2024,09:28.05,Android Studio,3.04,662179,2,Inactive,41
+Sunday,24-11-2024,22:38.20,Skype,3.34,434175,4,Inactive,43
+Sunday,24-11-2024,07:53.39,Outlook,1.61,501444,1,Active,17
+Sunday,24-11-2024,15:38.10,Xcode,3.33,426889,1,Active,47
+Sunday,24-11-2024,07:51.19,MATLAB,2.03,406874,2,Inactive,17
+Sunday,24-11-2024,11:31.53,Word,4.36,545320,2,Inactive,49
+Sunday,24-11-2024,22:27.10,Chrome,4.07,580805,1,Inactive,43
+Sunday,24-11-2024,21:22.15,Google Drive,2.81,194187,2,Inactive,18
+Sunday,24-11-2024,17:23.59,Skype,3.87,253528,3,Active,30
+Sunday,24-11-2024,07:57.18,OneNote,3.81,594815,1,Active,45
+Sunday,24-11-2024,22:34.00,Notion,1.86,647017,3,Inactive,36
+Sunday,24-11-2024,08:59.04,PowerPoint,1.3,566140,2,Inactive,45
+Sunday,24-11-2024,15:09.23,AutoCAD,3.48,445321,2,Active,43
+Sunday,24-11-2024,18:54.52,Netflix,2.64,513818,1,Active,13
+Sunday,24-11-2024,13:54.18,Google Drive,1.55,364797,1,Active,24
+Sunday,24-11-2024,17:20.42,Notion,4.34,392491,2,Active,50
+Sunday,24-11-2024,19:32.20,Steam,0.75,154188,1,Active,19
+Sunday,24-11-2024,00:10.43,WhatsApp,3.3,564577,2,Inactive,27
+Sunday,24-11-2024,07:19.58,OBS Studio,1.06,644627,1,Active,45
+Sunday,24-11-2024,19:11.10,Adobe Illustrator,3.77,662471,2,Inactive,53
+Sunday,24-11-2024,20:13.47,Jira,1.93,355454,2,Inactive,38
+Sunday,24-11-2024,23:51.37,Outlook,1.32,232491,4,Inactive,25
+Sunday,24-11-2024,23:51.56,Trello,4.41,205389,4,Active,48
+Sunday,24-11-2024,18:58.23,Blender,1.04,436216,1,Inactive,45
+Sunday,24-11-2024,22:10.37,Outlook,4.46,690005,1,Active,33
+Sunday,24-11-2024,08:22.51,Adobe Photoshop,3.93,631254,1,Active,12
+Sunday,24-11-2024,15:07.04,Firefox,4.43,140402,4,Active,15
+Sunday,24-11-2024,20:33.18,Firefox,1.33,154328,2,Active,48
+Sunday,24-11-2024,13:00.06,Android Studio,3.31,406268,1,Active,16
+Sunday,24-11-2024,12:53.02,Microsoft Store,2.87,643531,2,Active,50
+Sunday,24-11-2024,13:51.41,GitHub Desktop,1.72,364442,1,Active,12
+Sunday,24-11-2024,20:48.49,Slack,3.57,355760,2,Active,46
+Sunday,24-11-2024,15:43.03,VSCode,4.15,172964,1,Active,52
+Sunday,24-11-2024,13:34.07,AutoCAD,1.37,200518,1,Inactive,23
+Sunday,24-11-2024,17:23.27,Google Drive,2.5,676769,2,Active,45
+Sunday,24-11-2024,08:31.13,Steam,2.81,600490,1,Active,20
+Sunday,24-11-2024,09:26.36,Word,3.46,653161,2,Active,55
+Sunday,24-11-2024,07:47.38,MATLAB,1.39,155881,1,Inactive,14
+Sunday,24-11-2024,11:56.15,Zoom,4.55,269633,1,Inactive,55
+Sunday,24-11-2024,23:27.09,GitHub Desktop,4.71,435010,3,Inactive,30
+Sunday,24-11-2024,18:39.15,PowerPoint,3.37,250334,4,Active,25
+Sunday,24-11-2024,11:18.47,Adobe Illustrator,1.39,524786,3,Active,19
+Sunday,24-11-2024,08:55.27,Figma,2.64,160848,2,Inactive,33
+Sunday,24-11-2024,23:33.39,Adobe Photoshop,0.31,415240,4,Inactive,60
+Sunday,24-11-2024,23:47.05,IntelliJ IDEA,4.97,381070,2,Active,37
+Sunday,24-11-2024,17:13.52,Notion,2.12,519929,2,Inactive,40
+Sunday,24-11-2024,15:10.53,Adobe Illustrator,0.49,626563,1,Inactive,36
+Sunday,24-11-2024,11:10.30,Opera,0.34,158473,1,Inactive,59
+Sunday,24-11-2024,23:15.29,OBS Studio,1.25,535956,4,Active,40
+Sunday,24-11-2024,14:41.01,Teams,3.16,628069,2,Inactive,43
+Sunday,24-11-2024,22:25.50,Xcode,2.5,465092,3,Active,18
+Sunday,24-11-2024,18:34.58,Jira,2.21,497129,2,Active,24
+Sunday,24-11-2024,20:07.47,Edge,1.97,306805,1,Inactive,30
+Sunday,24-11-2024,00:48.24,Unity,2.21,534489,2,Active,53
+Sunday,24-11-2024,11:47.13,IntelliJ IDEA,4.37,233361,3,Inactive,28
+Sunday,24-11-2024,22:23.07,Notion,1.42,129661,2,Inactive,58
+Sunday,24-11-2024,21:25.51,WhatsApp,1.03,222470,1,Inactive,18
+Monday,25-11-2024,11:43.10,Edge,0.43,277507,3,Inactive,53
+Monday,25-11-2024,16:23.52,Visual Studio,3.49,594393,1,Inactive,51
+Monday,25-11-2024,10:14.25,Adobe Illustrator,4.4,304610,1,Inactive,11
+Monday,25-11-2024,14:48.10,Teams,0.31,692470,1,Inactive,37
+Monday,25-11-2024,18:25.47,Unity,3.61,447542,2,Active,14
+Monday,25-11-2024,21:47.56,Adobe Photoshop,1.41,585394,2,Inactive,19
+Monday,25-11-2024,14:03.22,Blender,1.25,523169,2,Active,59
+Monday,25-11-2024,20:14.10,Teams,2.37,422060,1,Inactive,34
+Monday,25-11-2024,20:04.14,Microsoft Store,2.61,684958,2,Inactive,33
+Monday,25-11-2024,10:48.35,Postman,3.2,667862,1,Inactive,34
+Monday,25-11-2024,12:56.25,Teams,4.63,576395,2,Active,57
+Monday,25-11-2024,18:54.00,PowerPoint,1.44,158508,1,Inactive,10
+Monday,25-11-2024,22:16.46,Telegram,3.85,551437,1,Inactive,18
+Monday,25-11-2024,20:27.31,Steam,4.52,354045,1,Active,48
+Monday,25-11-2024,22:53.26,Notion,2.83,630808,4,Active,32
+Monday,25-11-2024,09:14.20,Slack,4.65,480602,2,Active,16
+Monday,25-11-2024,11:36.04,Blender,2.6,284113,1,Active,44
+Monday,25-11-2024,13:54.15,Spotify,1.88,521555,2,Inactive,39
+Monday,25-11-2024,14:28.01,Netflix,1.71,506624,1,Inactive,26
+Monday,25-11-2024,17:18.11,Discord,1.38,190255,2,Inactive,60
+Monday,25-11-2024,09:11.25,Edge,0.55,582343,1,Inactive,34
+Monday,25-11-2024,18:36.53,Slack,3.69,186352,4,Inactive,11
+Monday,25-11-2024,19:57.17,Android Studio,2.16,425643,1,Inactive,14
+Monday,25-11-2024,16:57.59,Skype,4.78,263372,1,Inactive,32
+Monday,25-11-2024,21:51.35,GitHub Desktop,0.35,228202,1,Inactive,47
+Monday,25-11-2024,09:28.19,Adobe Illustrator,3.03,235016,2,Inactive,22
+Monday,25-11-2024,20:49.27,YouTube,2.99,301565,1,Inactive,57
+Monday,25-11-2024,21:13.34,Slack,0.97,192903,1,Inactive,14
+Monday,25-11-2024,12:13.42,Firefox,3.52,554732,1,Active,41
+Monday,25-11-2024,15:38.19,Microsoft Store,4.13,624544,2,Inactive,39
+Monday,25-11-2024,21:44.30,Android Studio,1.7,691733,1,Inactive,54
+Monday,25-11-2024,12:42.04,Adobe Illustrator,1.95,496561,2,Inactive,20
+Monday,25-11-2024,17:24.01,Postman,1.14,167295,1,Inactive,41
+Monday,25-11-2024,07:40.39,Android Studio,3.24,641509,2,Inactive,10
+Monday,25-11-2024,12:42.50,Trello,4.32,220171,2,Active,35
+Monday,25-11-2024,17:18.16,Outlook,1.25,420085,3,Active,58
+Monday,25-11-2024,09:27.24,VSCode,1.96,243756,1,Inactive,31
+Monday,25-11-2024,09:05.34,Blender,1.78,284032,2,Inactive,41
+Monday,25-11-2024,13:33.07,AutoCAD,2.91,650072,2,Active,21
+Monday,25-11-2024,10:15.44,GitHub Desktop,2.64,516390,4,Inactive,54
+Monday,25-11-2024,10:41.54,Edge,2.85,477499,3,Inactive,11
+Monday,25-11-2024,00:27.35,MATLAB,3.3,107444,4,Active,24
+Monday,25-11-2024,09:32.49,Eclipse,3.12,123470,2,Inactive,54
+Monday,25-11-2024,14:22.27,Spotify,3.88,236186,1,Inactive,47
+Monday,25-11-2024,09:24.42,Steam,1.93,484317,2,Inactive,43
+Monday,25-11-2024,14:04.35,Jira,3.34,102839,2,Inactive,58
+Monday,25-11-2024,11:08.05,IntelliJ IDEA,2.42,518889,1,Active,24
+Monday,25-11-2024,21:47.14,VSCode,4.29,378221,2,Active,41
+Monday,25-11-2024,17:06.34,IntelliJ IDEA,1.39,466468,4,Active,42
+Monday,25-11-2024,22:08.27,Adobe Photoshop,4.56,561126,4,Inactive,56
+Monday,25-11-2024,18:39.53,Figma,3.59,452191,2,Active,30
+Monday,25-11-2024,17:08.01,Outlook,4.26,539859,3,Inactive,22
+Monday,25-11-2024,09:35.12,Slack,0.58,389500,1,Active,14
+Monday,25-11-2024,23:35.45,Chrome,4.3,360534,3,Active,10
+Monday,25-11-2024,14:24.09,WhatsApp,0.53,395237,2,Active,42
+Monday,25-11-2024,21:45.14,Firefox,4.36,214020,1,Inactive,25
+Tuesday,26-11-2024,22:28.47,Opera,4.78,581287,2,Active,30
+Tuesday,26-11-2024,11:09.52,Outlook,4.19,615753,3,Active,14
+Tuesday,26-11-2024,18:46.01,Jira,2.71,164694,1,Active,17
+Tuesday,26-11-2024,15:43.53,Unity,0.59,232343,2,Inactive,26
+Tuesday,26-11-2024,23:50.47,Excel,2.89,136140,1,Inactive,27
+Tuesday,26-11-2024,08:43.19,Zoom,2.11,154231,2,Active,50
+Tuesday,26-11-2024,20:25.28,Slack,2.61,165706,1,Inactive,11
+Tuesday,26-11-2024,08:31.00,Telegram,1.13,115701,2,Inactive,41
+Tuesday,26-11-2024,16:20.40,MATLAB,3.71,216667,4,Inactive,60
+Tuesday,26-11-2024,17:48.21,YouTube,4.98,327193,2,Active,17
+Tuesday,26-11-2024,09:41.52,YouTube,4.93,363539,1,Inactive,43
+Tuesday,26-11-2024,12:51.02,Outlook,3.24,473487,1,Active,52
+Tuesday,26-11-2024,23:15.28,Jira,0.55,105959,3,Inactive,45
+Tuesday,26-11-2024,16:11.51,Teams,0.41,431559,4,Inactive,45
+Tuesday,26-11-2024,19:21.21,YouTube,4.33,283453,1,Active,17
+Tuesday,26-11-2024,15:56.49,Zoom,3.32,356818,3,Inactive,10
+Tuesday,26-11-2024,14:07.24,Eclipse,2.41,573230,1,Inactive,42
+Tuesday,26-11-2024,16:14.12,Notion,2.57,462335,4,Active,16
+Tuesday,26-11-2024,15:05.29,Eclipse,1.81,534352,3,Active,34
+Tuesday,26-11-2024,15:32.08,IntelliJ IDEA,0.38,631021,1,Inactive,33
+Tuesday,26-11-2024,15:12.04,Android Studio,0.37,527706,1,Active,16
+Tuesday,26-11-2024,21:08.32,Blender,3.43,453397,2,Active,31
+Tuesday,26-11-2024,12:14.18,Netflix,0.88,131212,2,Inactive,21
+Tuesday,26-11-2024,15:13.13,YouTube,1.74,557540,4,Active,22
+Tuesday,26-11-2024,13:50.49,Adobe Photoshop,2.1,684337,2,Active,59
+Tuesday,26-11-2024,09:57.52,Trello,2.09,524884,1,Inactive,56
+Tuesday,26-11-2024,13:58.56,GitHub Desktop,2.84,577204,2,Inactive,50
+Tuesday,26-11-2024,20:31.45,Microsoft Store,1.65,317595,1,Active,43
+Tuesday,26-11-2024,11:14.56,Excel,1.6,242245,4,Active,15
+Tuesday,26-11-2024,23:50.21,Outlook,1.46,478331,4,Inactive,37
+Tuesday,26-11-2024,15:58.02,IntelliJ IDEA,3.21,529360,3,Active,55
+Tuesday,26-11-2024,12:08.14,Teams,1.88,313660,1,Active,23
+Tuesday,26-11-2024,18:37.44,Adobe Illustrator,0.5,478751,3,Active,26
+Tuesday,26-11-2024,18:12.05,Steam,4.3,233578,2,Active,34
+Tuesday,26-11-2024,15:30.37,Zoom,3.54,645032,2,Inactive,22
+Tuesday,26-11-2024,12:14.35,Chrome,3.57,660550,2,Active,39
+Tuesday,26-11-2024,18:23.48,Postman,0.3,288763,4,Inactive,50
+Tuesday,26-11-2024,22:11.13,Adobe Photoshop,1.16,642592,4,Active,52
+Tuesday,26-11-2024,12:58.02,Google Drive,4.34,409033,2,Inactive,27
+Tuesday,26-11-2024,17:19.50,Adobe Photoshop,1.17,320159,3,Active,50
+Tuesday,26-11-2024,13:55.57,Netflix,0.77,222364,1,Active,46
+Tuesday,26-11-2024,21:59.13,Visual Studio,0.75,579000,2,Inactive,56
+Tuesday,26-11-2024,14:55.33,Netflix,0.76,208663,1,Active,45
+Tuesday,26-11-2024,17:24.15,Teams,4.43,150531,3,Inactive,11
+Tuesday,26-11-2024,18:29.44,Word,3.01,435379,2,Active,20
+Tuesday,26-11-2024,13:27.12,Unity,0.42,297987,1,Active,23
+Tuesday,26-11-2024,17:17.48,Unity,1.76,517769,3,Active,43
+Tuesday,26-11-2024,15:37.52,Word,2.67,503260,2,Active,38
+Tuesday,26-11-2024,13:53.46,Notion,3.73,121704,1,Inactive,16
+Tuesday,26-11-2024,00:41.01,VSCode,0.65,211850,1,Active,36
+Tuesday,26-11-2024,09:27.31,YouTube,4.96,673921,2,Inactive,13
+Tuesday,26-11-2024,21:33.13,Xcode,4.19,464857,1,Inactive,52
+Tuesday,26-11-2024,22:41.13,Netflix,0.35,234317,1,Inactive,26
+Tuesday,26-11-2024,14:06.06,Trello,4.53,470435,1,Active,14
+Tuesday,26-11-2024,19:15.15,Discord,4.44,322964,2,Inactive,20
+Tuesday,26-11-2024,07:29.21,Outlook,3.62,121098,1,Inactive,40
+Tuesday,26-11-2024,13:16.16,Blender,4.0,616968,2,Active,55
+Tuesday,26-11-2024,23:09.18,Notion,3.56,111621,1,Active,56
+Tuesday,26-11-2024,19:53.28,PowerPoint,4.03,323705,1,Inactive,49
+Tuesday,26-11-2024,15:45.11,VSCode,0.44,686420,1,Active,58
+Tuesday,26-11-2024,22:08.55,AutoCAD,4.26,338099,2,Active,18
+Tuesday,26-11-2024,19:59.19,Figma,2.57,345194,1,Active,30
+Tuesday,26-11-2024,15:27.24,Jira,0.69,298147,3,Active,11
+Tuesday,26-11-2024,15:40.15,Google Drive,4.67,204251,2,Active,53
+Tuesday,26-11-2024,21:54.17,Spotify,0.31,546464,1,Active,56
+Tuesday,26-11-2024,00:28.57,PowerPoint,2.18,416068,1,Inactive,40
+Tuesday,26-11-2024,18:42.30,Adobe Illustrator,1.69,205537,2,Active,12
+Tuesday,26-11-2024,07:08.20,Teams,1.23,631524,1,Active,37
+Tuesday,26-11-2024,15:06.14,Skype,4.33,669633,1,Inactive,27
+Tuesday,26-11-2024,17:47.46,Trello,1.93,596953,2,Active,37
+Tuesday,26-11-2024,12:35.50,Steam,4.26,622642,1,Inactive,37
+Tuesday,26-11-2024,08:48.51,Jira,2.99,564052,1,Inactive,31
+Tuesday,26-11-2024,23:43.37,Blender,1.36,611480,2,Inactive,17
+Tuesday,26-11-2024,15:20.48,Opera,4.5,682329,4,Inactive,12
+Tuesday,26-11-2024,12:16.53,Outlook,4.82,197084,1,Active,49
+Tuesday,26-11-2024,00:03.16,Android Studio,3.65,256915,3,Inactive,49
+Tuesday,26-11-2024,22:08.24,Zoom,1.82,581297,2,Active,39
+Tuesday,26-11-2024,18:37.02,GitHub Desktop,3.75,690424,3,Active,40
+Tuesday,26-11-2024,12:39.31,VSCode,2.57,324419,2,Active,58
+Wednesday,27-11-2024,18:54.49,Trello,1.71,245765,1,Active,34
+Wednesday,27-11-2024,13:43.33,Postman,1.57,383193,2,Active,55
+Wednesday,27-11-2024,20:52.42,Outlook,1.86,139557,2,Active,51
+Wednesday,27-11-2024,12:41.47,OneNote,2.01,183588,1,Inactive,17
+Wednesday,27-11-2024,13:43.27,Netflix,4.98,563241,2,Active,12
+Wednesday,27-11-2024,17:31.56,Skype,2.45,394035,1,Active,54
+Wednesday,27-11-2024,00:28.07,WhatsApp,3.79,128307,4,Active,27
+Wednesday,27-11-2024,08:05.12,Microsoft Store,4.39,544941,2,Inactive,16
+Wednesday,27-11-2024,17:51.37,Google Drive,4.6,368544,2,Active,42
+Wednesday,27-11-2024,00:19.36,OneNote,1.22,251225,4,Inactive,16
+Wednesday,27-11-2024,09:11.57,Adobe Illustrator,3.8,218750,2,Inactive,41
+Wednesday,27-11-2024,09:22.18,Teams,1.0,316758,1,Inactive,37
+Wednesday,27-11-2024,17:13.42,Trello,4.94,518126,2,Active,18
+Wednesday,27-11-2024,18:57.40,Eclipse,2.87,517137,1,Active,27
+Wednesday,27-11-2024,14:27.55,IntelliJ IDEA,4.58,300519,2,Active,12
+Wednesday,27-11-2024,09:31.43,PowerPoint,2.47,112292,1,Active,55
+Wednesday,27-11-2024,12:10.13,Zoom,3.68,178004,1,Active,11
+Wednesday,27-11-2024,07:45.40,WhatsApp,0.57,692715,1,Active,26
+Wednesday,27-11-2024,14:40.12,VSCode,0.56,330745,2,Active,47
+Wednesday,27-11-2024,00:14.38,AutoCAD,0.39,588059,2,Active,60
+Wednesday,27-11-2024,20:28.49,Firefox,2.41,105007,1,Active,38
+Wednesday,27-11-2024,11:25.31,Discord,0.6,423390,1,Inactive,49
+Wednesday,27-11-2024,07:43.46,YouTube,0.8,292717,1,Inactive,21
+Wednesday,27-11-2024,09:23.48,Word,3.51,135787,1,Inactive,15
+Wednesday,27-11-2024,00:57.19,Adobe Photoshop,4.72,130908,3,Active,43
+Wednesday,27-11-2024,14:01.18,Zoom,4.8,157172,2,Active,31
+Wednesday,27-11-2024,12:59.49,OBS Studio,4.98,181515,1,Active,13
+Wednesday,27-11-2024,15:02.03,Word,0.67,120223,1,Inactive,23
+Wednesday,27-11-2024,17:36.54,Opera,4.93,692041,1,Inactive,58
+Wednesday,27-11-2024,09:05.05,Spotify,2.08,149906,1,Inactive,56
+Wednesday,27-11-2024,17:09.24,Skype,3.37,159409,4,Active,44
+Wednesday,27-11-2024,19:06.13,Excel,2.43,621556,2,Active,15
+Wednesday,27-11-2024,09:05.54,Notion,1.93,408332,1,Inactive,23
+Wednesday,27-11-2024,18:03.22,Chrome,2.55,383071,3,Active,13
+Wednesday,27-11-2024,22:50.28,Skype,2.36,379607,4,Active,45
+Wednesday,27-11-2024,19:38.43,AutoCAD,3.89,287554,2,Inactive,13
+Wednesday,27-11-2024,23:00.04,Zoom,2.28,544971,1,Inactive,43
+Wednesday,27-11-2024,19:55.55,Outlook,3.98,414319,1,Inactive,55
+Wednesday,27-11-2024,19:51.00,GitHub Desktop,1.43,168468,1,Inactive,26
+Wednesday,27-11-2024,13:22.25,Spotify,2.91,225782,2,Active,59
+Wednesday,27-11-2024,00:13.16,Netflix,1.94,645112,2,Inactive,43
+Wednesday,27-11-2024,23:15.57,Adobe Illustrator,3.65,436808,3,Inactive,52
+Wednesday,27-11-2024,13:40.00,Skype,4.69,251000,1,Active,48
+Wednesday,27-11-2024,13:38.01,IntelliJ IDEA,1.96,377672,2,Active,21
+Wednesday,27-11-2024,12:13.48,Figma,0.67,645724,2,Inactive,48
+Wednesday,27-11-2024,09:13.41,Netflix,4.29,595915,1,Active,27
+Wednesday,27-11-2024,14:34.51,Notion,4.05,381146,1,Active,56
+Wednesday,27-11-2024,07:55.13,Zoom,3.77,244759,2,Active,18
+Wednesday,27-11-2024,09:09.06,Firefox,1.64,200724,2,Inactive,22
+Wednesday,27-11-2024,12:30.11,Netflix,4.83,237411,2,Inactive,10
+Wednesday,27-11-2024,17:33.25,Adobe Photoshop,2.71,411493,4,Inactive,29
+Wednesday,27-11-2024,12:58.15,MATLAB,1.81,482357,2,Inactive,36
+Wednesday,27-11-2024,22:02.22,VSCode,4.96,665964,3,Active,59
+Wednesday,27-11-2024,15:16.55,Android Studio,4.61,159246,4,Active,44
+Wednesday,27-11-2024,13:29.47,Chrome,1.65,167076,1,Active,27
+Wednesday,27-11-2024,20:45.14,AutoCAD,2.29,443953,1,Active,14
+Wednesday,27-11-2024,11:21.23,Blender,3.8,618890,3,Inactive,24
+Wednesday,27-11-2024,00:46.39,Postman,0.76,115860,4,Active,42
+Wednesday,27-11-2024,10:55.02,Chrome,2.67,409988,4,Inactive,45
+Wednesday,27-11-2024,21:31.28,WhatsApp,2.17,101707,2,Active,37
+Wednesday,27-11-2024,23:02.42,Firefox,1.49,297597,4,Inactive,21
+Wednesday,27-11-2024,16:41.05,Zoom,1.44,331228,4,Active,43
+Wednesday,27-11-2024,08:21.51,GitHub Desktop,3.02,199924,1,Inactive,15
+Wednesday,27-11-2024,07:58.59,Edge,1.41,470404,1,Inactive,21
+Wednesday,27-11-2024,17:58.59,Zoom,2.66,552275,2,Inactive,32
+Wednesday,27-11-2024,20:24.38,Unity,1.57,650883,1,Active,39
+Wednesday,27-11-2024,15:21.45,Android Studio,4.01,686955,4,Active,12
+Wednesday,27-11-2024,23:28.59,PowerPoint,1.2,526344,4,Inactive,47
+Wednesday,27-11-2024,16:06.04,Firefox,4.12,284882,3,Active,31
+Wednesday,27-11-2024,14:02.29,Postman,1.77,217538,2,Inactive,17
+Wednesday,27-11-2024,12:34.50,VSCode,4.56,467195,1,Active,13
+Wednesday,27-11-2024,20:18.40,Edge,4.18,499465,2,Inactive,46
+Wednesday,27-11-2024,17:03.53,Opera,1.65,615977,3,Active,27
+Wednesday,27-11-2024,18:41.53,GitHub Desktop,3.62,107222,1,Active,33
+Wednesday,27-11-2024,09:54.05,Microsoft Store,4.84,592759,1,Active,49
+Wednesday,27-11-2024,19:17.04,Word,0.33,284751,2,Inactive,14
+Wednesday,27-11-2024,23:13.51,VSCode,2.53,688617,3,Inactive,37
+Wednesday,27-11-2024,10:07.51,Eclipse,2.2,312221,3,Inactive,50
+Wednesday,27-11-2024,14:43.55,Eclipse,3.56,279186,2,Inactive,44
+Wednesday,27-11-2024,22:54.04,Telegram,3.81,600277,4,Active,19
+Wednesday,27-11-2024,16:23.09,Firefox,2.14,549338,1,Active,48
+Thursday,28-11-2024,15:52.11,Postman,4.79,281238,2,Inactive,31
+Thursday,28-11-2024,20:17.09,Blender,1.84,160951,1,Inactive,27
+Thursday,28-11-2024,18:29.35,AutoCAD,3.79,562911,2,Active,50
+Thursday,28-11-2024,15:05.16,Discord,3.65,256211,4,Inactive,43
+Thursday,28-11-2024,22:30.04,Outlook,4.83,156648,3,Active,49
+Thursday,28-11-2024,17:18.40,Teams,4.32,425239,4,Active,26
+Thursday,28-11-2024,08:10.01,Trello,3.59,150705,1,Active,43
+Thursday,28-11-2024,23:02.31,Excel,3.52,682563,4,Active,50
+Thursday,28-11-2024,09:29.19,Visual Studio,3.47,238220,2,Active,56
+Thursday,28-11-2024,12:37.17,Telegram,2.31,125974,1,Active,39
+Thursday,28-11-2024,14:04.44,Trello,1.88,289949,1,Active,25
+Thursday,28-11-2024,14:25.04,Eclipse,4.54,328312,1,Active,48
+Thursday,28-11-2024,19:11.12,Outlook,1.26,697824,2,Active,46
+Thursday,28-11-2024,12:29.57,Microsoft Store,4.81,106402,1,Active,48
+Thursday,28-11-2024,20:08.59,MATLAB,1.37,230016,2,Inactive,28
+Thursday,28-11-2024,19:26.34,Firefox,1.25,671380,2,Inactive,11
+Thursday,28-11-2024,10:33.58,Outlook,1.27,376467,1,Inactive,55
+Thursday,28-11-2024,18:21.10,Trello,3.34,293766,3,Active,51
+Thursday,28-11-2024,15:19.56,VSCode,4.82,153863,2,Active,13
+Thursday,28-11-2024,17:41.14,Outlook,1.73,490607,2,Active,28
+Thursday,28-11-2024,00:00.55,Firefox,3.1,343528,1,Inactive,43
+Thursday,28-11-2024,19:51.02,Adobe Photoshop,4.04,190438,2,Inactive,58
+Thursday,28-11-2024,12:15.42,Excel,3.57,205763,1,Active,47
+Thursday,28-11-2024,08:29.35,AutoCAD,2.01,381144,1,Active,36
+Thursday,28-11-2024,17:46.13,OBS Studio,1.77,612369,4,Active,32
+Thursday,28-11-2024,18:28.44,Word,2.62,439546,4,Inactive,33
+Thursday,28-11-2024,15:34.21,Slack,2.82,376400,2,Active,51
+Thursday,28-11-2024,09:57.46,Word,4.53,687595,1,Active,39
+Thursday,28-11-2024,14:36.40,Edge,2.31,197224,1,Inactive,25
+Thursday,28-11-2024,11:20.49,Visual Studio,4.48,207503,2,Inactive,13
+Thursday,28-11-2024,10:13.30,Telegram,1.07,256539,1,Active,12
+Thursday,28-11-2024,20:07.00,Unity,4.78,518034,1,Active,17
+Thursday,28-11-2024,22:32.52,Jira,0.74,260569,4,Active,26
+Thursday,28-11-2024,22:42.25,GitHub Desktop,0.72,507603,1,Active,41
+Thursday,28-11-2024,22:28.14,OneNote,3.5,658656,3,Active,16
+Thursday,28-11-2024,16:56.20,Unity,4.12,534303,4,Active,32
+Thursday,28-11-2024,12:09.05,Microsoft Store,1.15,673135,2,Inactive,34
+Thursday,28-11-2024,17:44.54,Xcode,4.22,464379,1,Inactive,48
+Thursday,28-11-2024,21:20.02,Xcode,4.21,474535,1,Inactive,24
+Thursday,28-11-2024,16:24.50,Excel,2.83,624507,2,Inactive,22
+Thursday,28-11-2024,21:33.56,MATLAB,4.31,683220,1,Active,16
+Thursday,28-11-2024,23:46.21,VSCode,1.08,553527,4,Inactive,52
+Thursday,28-11-2024,07:58.22,Word,0.32,697274,1,Active,29
+Thursday,28-11-2024,16:15.58,YouTube,3.43,318000,1,Active,52
+Thursday,28-11-2024,08:17.48,Steam,1.31,454822,2,Active,25
+Thursday,28-11-2024,20:24.25,Blender,0.55,612603,2,Inactive,46
+Thursday,28-11-2024,13:12.56,Spotify,2.41,114268,2,Active,36
+Thursday,28-11-2024,08:47.02,Netflix,4.7,615302,2,Inactive,13
+Thursday,28-11-2024,00:16.03,YouTube,2.44,486890,3,Inactive,18
+Thursday,28-11-2024,16:22.52,Edge,2.31,462033,2,Inactive,36
+Thursday,28-11-2024,21:40.48,Telegram,4.48,602435,2,Inactive,50
+Thursday,28-11-2024,10:54.35,Netflix,2.68,234887,3,Active,12
+Thursday,28-11-2024,21:17.58,Zoom,1.37,685679,2,Inactive,14
+Thursday,28-11-2024,17:42.01,OBS Studio,1.84,350924,2,Inactive,23
+Thursday,28-11-2024,19:10.51,Steam,4.71,208164,2,Inactive,32
+Thursday,28-11-2024,20:51.49,WhatsApp,2.15,559520,2,Active,35
+Thursday,28-11-2024,23:58.44,Blender,4.5,477779,4,Inactive,38
+Thursday,28-11-2024,22:03.41,Edge,3.23,159251,2,Inactive,26
+Thursday,28-11-2024,21:50.26,Teams,1.87,203556,2,Active,40
+Thursday,28-11-2024,12:32.12,Microsoft Store,2.1,682972,2,Active,60
+Thursday,28-11-2024,13:35.46,WhatsApp,0.79,615192,1,Inactive,22
+Thursday,28-11-2024,19:18.18,Discord,3.02,429036,2,Inactive,42
+Thursday,28-11-2024,22:45.07,Adobe Photoshop,0.56,667790,2,Inactive,30
+Thursday,28-11-2024,22:00.24,IntelliJ IDEA,1.87,358394,2,Active,56
+Thursday,28-11-2024,00:26.46,Postman,2.03,688904,1,Active,41
+Thursday,28-11-2024,12:31.01,Word,0.96,668050,1,Active,36
+Thursday,28-11-2024,00:26.45,Unity,2.97,624750,1,Inactive,37
+Thursday,28-11-2024,10:58.58,PowerPoint,2.86,369652,4,Inactive,17
+Thursday,28-11-2024,21:55.37,IntelliJ IDEA,0.42,585614,2,Active,59
+Thursday,28-11-2024,00:41.25,OneNote,0.61,505140,2,Inactive,50
+Thursday,28-11-2024,00:25.57,Notion,1.1,130194,4,Active,60
+Thursday,28-11-2024,12:13.24,Outlook,0.92,510007,1,Active,18
+Friday,29-11-2024,23:33.12,Outlook,2.25,438775,2,Active,36
+Friday,29-11-2024,21:49.18,PowerPoint,2.86,611100,1,Active,36
+Friday,29-11-2024,18:15.51,Adobe Illustrator,3.74,565890,4,Active,45
+Friday,29-11-2024,18:15.57,Discord,2.16,581620,2,Active,38
+Friday,29-11-2024,00:22.46,YouTube,4.73,164002,2,Inactive,19
+Friday,29-11-2024,17:53.19,Notion,4.43,663165,3,Inactive,26
+Friday,29-11-2024,16:44.55,GitHub Desktop,4.88,584605,2,Inactive,22
+Friday,29-11-2024,00:24.02,Skype,4.49,631323,2,Inactive,20
+Friday,29-11-2024,14:51.22,VSCode,0.31,403162,2,Active,38
+Friday,29-11-2024,12:39.08,PowerPoint,0.46,639133,2,Active,53
+Friday,29-11-2024,09:28.51,Opera,1.85,432079,2,Active,47
+Friday,29-11-2024,17:15.44,Jira,2.42,219129,4,Inactive,27
+Friday,29-11-2024,08:24.49,Eclipse,4.9,262131,1,Inactive,46
+Friday,29-11-2024,17:55.43,Jira,4.42,236493,2,Active,45
+Friday,29-11-2024,07:33.27,Eclipse,2.88,635073,1,Inactive,37
+Friday,29-11-2024,17:18.13,WhatsApp,2.01,324846,1,Active,26
+Friday,29-11-2024,21:50.38,Jira,3.06,188512,2,Inactive,12
+Friday,29-11-2024,15:36.12,IntelliJ IDEA,2.72,486841,3,Active,54
+Friday,29-11-2024,00:42.00,Microsoft Store,3.89,335140,1,Active,18
+Friday,29-11-2024,09:25.04,Discord,3.71,126630,2,Active,23
+Friday,29-11-2024,17:50.09,Google Drive,3.79,465408,2,Active,24
+Friday,29-11-2024,08:52.14,Spotify,3.29,466920,1,Inactive,21
+Friday,29-11-2024,19:39.02,Visual Studio,1.19,519401,1,Active,27
+Friday,29-11-2024,09:42.53,Adobe Illustrator,0.33,412372,2,Inactive,32
+Friday,29-11-2024,22:17.44,Netflix,0.32,617758,2,Inactive,44
+Friday,29-11-2024,22:26.30,Postman,2.02,425502,3,Inactive,30
+Friday,29-11-2024,12:31.05,Excel,2.95,482365,2,Inactive,11
+Friday,29-11-2024,13:44.50,WhatsApp,4.99,351387,1,Active,42
+Friday,29-11-2024,19:04.15,Figma,3.84,114856,2,Active,10
+Friday,29-11-2024,13:26.05,Visual Studio,1.32,684091,2,Inactive,39
+Friday,29-11-2024,13:21.34,Unity,3.52,219552,1,Inactive,26
+Friday,29-11-2024,21:11.07,Google Drive,4.1,202350,2,Inactive,29
+Friday,29-11-2024,07:49.47,Adobe Photoshop,4.08,604114,1,Active,23
+Friday,29-11-2024,23:26.53,Skype,3.66,473330,3,Active,43
+Friday,29-11-2024,13:30.11,Firefox,4.6,190862,1,Inactive,17
+Friday,29-11-2024,10:23.02,Slack,4.38,467687,1,Active,21
+Friday,29-11-2024,12:23.43,Visual Studio,3.85,415697,1,Inactive,47
+Friday,29-11-2024,08:49.43,Slack,2.98,457680,1,Active,58
+Friday,29-11-2024,10:53.24,OneNote,3.83,608936,2,Inactive,30
+Friday,29-11-2024,00:25.26,Eclipse,2.22,599566,1,Active,54
+Friday,29-11-2024,17:10.53,Unity,1.15,360598,3,Inactive,58
+Friday,29-11-2024,14:11.49,Netflix,2.75,402177,2,Active,19
+Friday,29-11-2024,12:15.49,PowerPoint,4.95,141042,1,Active,42
+Friday,29-11-2024,18:45.17,Chrome,1.91,400209,3,Inactive,45
+Friday,29-11-2024,22:28.42,YouTube,4.64,161174,4,Inactive,24
+Friday,29-11-2024,14:05.18,Steam,1.47,513966,1,Active,39
+Friday,29-11-2024,22:42.54,Edge,4.62,498849,4,Active,56
+Friday,29-11-2024,22:42.03,AutoCAD,0.4,690519,1,Active,56
+Friday,29-11-2024,10:59.27,Word,3.86,537997,1,Inactive,54
+Friday,29-11-2024,17:12.30,Eclipse,3.51,688290,1,Active,17
+Friday,29-11-2024,17:20.54,Chrome,1.34,606723,1,Active,12
+Friday,29-11-2024,00:54.02,Firefox,1.3,176744,4,Active,15
+Friday,29-11-2024,10:52.50,Trello,1.04,370827,2,Active,30
+Friday,29-11-2024,14:04.26,Slack,4.45,118007,1,Active,12
+Friday,29-11-2024,18:58.49,Opera,1.25,241171,4,Inactive,12
+Friday,29-11-2024,11:00.42,Google Drive,2.21,581190,3,Inactive,60
+Friday,29-11-2024,23:11.49,YouTube,3.8,204355,2,Inactive,39
+Friday,29-11-2024,20:00.25,MATLAB,3.66,197378,1,Inactive,20
+Friday,29-11-2024,15:01.00,Figma,4.02,129509,2,Inactive,54
+Friday,29-11-2024,09:43.55,AutoCAD,1.72,453510,2,Inactive,36
+Friday,29-11-2024,17:12.57,AutoCAD,4.41,552307,1,Active,47
+Friday,29-11-2024,13:09.36,Microsoft Store,4.55,519020,1,Active,46
+Friday,29-11-2024,14:49.05,Figma,1.97,372891,1,Active,32
+Friday,29-11-2024,08:21.22,Skype,3.34,108915,2,Inactive,59
+Friday,29-11-2024,07:05.30,Spotify,3.18,439063,1,Active,36
+Friday,29-11-2024,16:39.38,Adobe Illustrator,4.14,575518,2,Active,39
+Friday,29-11-2024,07:25.37,Zoom,1.42,398144,2,Inactive,25
+Friday,29-11-2024,13:35.44,GitHub Desktop,1.38,161116,2,Active,37
+Friday,29-11-2024,00:30.43,Figma,3.21,144450,1,Active,54
+Friday,29-11-2024,07:24.36,OBS Studio,0.7,566243,2,Inactive,56
+Friday,29-11-2024,11:37.25,Xcode,3.5,358466,4,Inactive,25
+Friday,29-11-2024,20:47.33,AutoCAD,1.31,134833,2,Inactive,36
+Friday,29-11-2024,11:21.43,Figma,2.36,347370,3,Active,48
+Friday,29-11-2024,21:07.56,Figma,1.82,245016,2,Active,50
+Saturday,30-11-2024,21:47.20,Unity,4.28,118935,2,Inactive,32
+Saturday,30-11-2024,20:01.54,WhatsApp,0.98,511182,2,Inactive,13
+Saturday,30-11-2024,15:40.19,Netflix,3.13,365026,3,Inactive,35
+Saturday,30-11-2024,13:13.21,Excel,0.9,519526,1,Active,10
+Saturday,30-11-2024,10:54.21,OneNote,4.65,219135,2,Inactive,28
+Saturday,30-11-2024,13:35.54,MATLAB,4.7,443795,1,Inactive,23
+Saturday,30-11-2024,17:49.53,Postman,4.05,253577,1,Inactive,46
+Saturday,30-11-2024,13:28.43,Unity,1.66,293535,2,Inactive,16
+Saturday,30-11-2024,08:30.20,Notion,4.89,208308,2,Inactive,12
+Saturday,30-11-2024,10:53.14,Eclipse,0.35,140926,3,Active,15
+Saturday,30-11-2024,22:14.52,Steam,2.38,432663,4,Inactive,44
+Saturday,30-11-2024,17:19.33,Adobe Illustrator,1.64,681982,1,Inactive,55
+Saturday,30-11-2024,22:30.01,IntelliJ IDEA,2.38,242429,4,Active,57
+Saturday,30-11-2024,19:49.54,Adobe Illustrator,3.99,268570,2,Inactive,10
+Saturday,30-11-2024,19:43.19,Skype,4.76,124794,2,Active,12
+Saturday,30-11-2024,18:24.41,VSCode,3.85,377366,3,Inactive,32
+Saturday,30-11-2024,08:45.06,OneNote,2.22,649437,1,Active,45
+Saturday,30-11-2024,17:18.47,Opera,1.38,679580,4,Inactive,53
+Saturday,30-11-2024,22:21.23,PowerPoint,2.95,547509,1,Active,36
+Saturday,30-11-2024,16:43.49,Figma,0.42,202059,2,Inactive,42
+Saturday,30-11-2024,22:47.11,Discord,3.42,458918,2,Inactive,53
+Saturday,30-11-2024,17:49.45,MATLAB,0.56,637079,2,Inactive,22
+Saturday,30-11-2024,08:50.13,Adobe Illustrator,4.3,357804,2,Inactive,11
+Saturday,30-11-2024,11:55.38,VSCode,1.03,469459,1,Inactive,60
+Saturday,30-11-2024,15:06.00,Visual Studio,0.57,258117,4,Active,25
+Saturday,30-11-2024,13:33.35,Steam,4.46,282580,1,Active,35
+Saturday,30-11-2024,17:54.17,GitHub Desktop,2.6,412474,3,Active,35
+Saturday,30-11-2024,22:55.25,Adobe Illustrator,3.49,256208,3,Inactive,33
+Saturday,30-11-2024,22:46.04,Teams,4.48,420412,4,Active,51
+Saturday,30-11-2024,10:46.12,Firefox,4.7,151844,2,Inactive,19
+Saturday,30-11-2024,19:50.22,Opera,4.63,466575,1,Inactive,58
+Saturday,30-11-2024,14:14.29,Outlook,0.35,518737,2,Inactive,15
+Saturday,30-11-2024,23:52.34,Teams,0.95,667426,2,Inactive,28
+Saturday,30-11-2024,18:42.30,Netflix,3.49,228348,1,Inactive,24
+Saturday,30-11-2024,07:10.56,Adobe Photoshop,2.65,567850,2,Active,19
+Saturday,30-11-2024,14:32.21,Trello,0.37,687808,2,Active,59
+Saturday,30-11-2024,10:33.39,Steam,3.47,400384,4,Inactive,24
+Saturday,30-11-2024,07:13.01,OBS Studio,3.75,479674,1,Inactive,19
+Saturday,30-11-2024,20:41.33,Chrome,1.9,463979,2,Inactive,42
+Saturday,30-11-2024,19:52.04,Firefox,4.62,547786,2,Inactive,60
+Saturday,30-11-2024,23:18.48,Word,4.92,447180,4,Inactive,58
+Saturday,30-11-2024,12:52.25,YouTube,4.53,246016,1,Inactive,15
+Saturday,30-11-2024,23:01.37,MATLAB,2.67,165404,4,Active,18
+Saturday,30-11-2024,07:04.30,Teams,4.43,367092,2,Active,12
+Saturday,30-11-2024,18:16.42,Trello,1.74,113769,3,Inactive,46
+Saturday,30-11-2024,23:42.15,Visual Studio,2.68,476804,2,Inactive,44
+Saturday,30-11-2024,12:43.00,WhatsApp,4.79,250183,2,Inactive,45
+Saturday,30-11-2024,12:06.22,Slack,4.46,544129,2,Inactive,18
+Saturday,30-11-2024,23:14.39,Eclipse,1.76,325230,4,Active,50
+Saturday,30-11-2024,11:58.42,Postman,4.72,169147,2,Inactive,35
+Saturday,30-11-2024,21:41.42,Visual Studio,0.8,253902,2,Active,33
+Saturday,30-11-2024,18:50.10,Opera,3.23,276007,2,Active,26
